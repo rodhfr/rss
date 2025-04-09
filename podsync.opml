@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>Podsync feeds</title>
+	</head>
+	<body>
+		<outline text="TeClas é um canal sobre tecnologia e luta de classes, digitado pelos camaradas @ayanicodemos @azhariel.tv @eai_pequi @lsaporiti @tresgatosnumjaleco e @lfzawacki ✊" type="rss" xmlUrl="https://feed.rodhfr.shop/TeClas.xml" title="Tecnologia e Classe (TeClas)"></outline>
+	</body>
+</opml>
