@@ -1,12 +1,14 @@
 # Podsync Public RSS Feed Repo
 
+## Dependencies 
+* Podsync
+* Cronie
 ## Setup
 ```bash
-git clone https://github.com/rodhfr/rss
-cd rss
+# add this remote repo to your podsync data folder remote path 
 sh setup_auto_update.sh
 ```
-This script just creates a cron job that auto updates rss from this folder every 6 hours (configurable via cron syntax).
+setup_auto_update.sh just creates a cron job that auto updates rss from this folder every 6 hours (configurable via cron syntax).
 
 
 

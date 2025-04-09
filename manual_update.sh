@@ -1,6 +1,9 @@
 #!/bin/bash
 
-repo_path="${1:-$(pwd)}"
+# Get the folder where this script is located
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+repo_path="${1:-$SCRIPT_DIR}"
 
 if [[ ! -d "$repo_path/.git" ]]; then
     echo "❌ '$repo_path' is not a git repository."
