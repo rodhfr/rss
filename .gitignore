@@ -5,6 +5,7 @@
 !*.xml
 !*.md
 !*.opml
+!*.sh
 
 # Também não ignora pastas (necessário se quiser encontrar arquivos .xml dentro delas)
 !*/
