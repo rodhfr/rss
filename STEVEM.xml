@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>STEVEM</title>
+    <link>https://youtube.com/channel/UCUCn-bkupQ9SMI6005R684A</link>
+    <description>My name is Stevem, not STEVE, M. Stevemmmm as in Steven with an &#34;m&#39;.&#xA;I make Video Essays about Animation History that focus on the old, obscure and Japanese. Sometimes I make videos about Japanese music.&#xA;https://stevem.gimmeswag.com&#xA;</description>
+    <category>TV &amp; Film</category>
+    <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Apr 2025 22:28:21 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Jun 2008 19:01:37 +0000</pubDate>
+    <image>
+      <url>https://yt3.ggpht.com/ytc/AIdro_kgp7m4vVqW0e0pN7R1dyltUTttrU48XTyoXkIJLrPojEA=s800-c-k-c0x00ffffff-no-rj</url>
+      <title>STEVEM</title>
+      <link>https://youtube.com/channel/UCUCn-bkupQ9SMI6005R684A</link>
+    </image>
+    <itunes:author>STEVEM</itunes:author>
+    <itunes:subtitle>STEVEM</itunes:subtitle>
+    <itunes:summary><![CDATA[My name is Stevem, not STEVE, M. Stevemmmm as in Steven with an "m'.
+I make Video Essays about Animation History that focus on the old, obscure and Japanese. Sometimes I make videos about Japanese music.
+https://stevem.gimmeswag.com
+]]></itunes:summary>
+    <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_kgp7m4vVqW0e0pN7R1dyltUTttrU48XTyoXkIJLrPojEA=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>xm_DE-pgung</guid>
+      <title>The Ghibli AI DISASTER</title>
+      <link>https://youtube.com/watch?v=xm_DE-pgung</link>
+      <description>Open AIs new image generator now makes awful ghibli ai art...&#xA;Follow me on Twitter for Updates on Videos- https://twitter.com/the_stevem&#xA;SUPPORT ME HERE- https://www.patreon.com/stevemmmmm&#xA;AND HERE - paypal.me/stevemmmmm&#xA;All Sources In the Pinned Comments&#xA;https://docs.google.com/document/d/1giQBCoYMMsF3dPPq3s2cMnlUKh-CBd6ZW6H2dvRh_Do/edit?usp=sharing&#xA;#ghibli #aiart #hayaomiyazaki</description>
+      <pubDate>Sun, 06 Apr 2025 00:52:21 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/STEVEM/xm_DE-pgung.mp4" length="306055584" type="video/mp4"></enclosure>
+      <itunes:author>STEVEM</itunes:author>
+      <itunes:subtitle>The Ghibli AI DISASTER</itunes:subtitle>
+      <itunes:summary><![CDATA[Open AIs new image generator now makes awful ghibli ai art...
+Follow me on Twitter for Updates on Videos- https://twitter.com/the_stevem
+SUPPORT ME HERE- https://www.patreon.com/stevemmmmm
+AND HERE - paypal.me/stevemmmmm
+All Sources In the Pinned Comments
+https://docs.google.com/document/d/1giQBCoYMMsF3dPPq3s2cMnlUKh-CBd6ZW6H2dvRh_Do/edit?usp=sharing
+#ghibli #aiart #hayaomiyazaki]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/xm_DE-pgung/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>17:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+  </channel>
+</rss>
