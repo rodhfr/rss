@@ -10,5 +10,6 @@ sh setup_auto_update.sh
 ```
 setup_auto_update.sh just creates a cron job that auto updates rss from this folder every 6 hours (configurable via cron syntax).
 
+ola
 
 
