@@ -4,6 +4,7 @@
 # Mas não ignora os arquivos .xml no diretório raiz
 !*.xml
 !*.md
+!*.opml
 
 # Também não ignora pastas (necessário se quiser encontrar arquivos .xml dentro delas)
 !*/
