@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>hbomberguy</title>
+    <link>https://youtube.com/channel/UClt01z1wHHT7c5lKcU8pxRQ</link>
+    <description>I make videos&#xA;&#xA;Send all enquiries to contact@hbomb.zone</description>
+    <category>TV &amp; Film</category>
+    <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Apr 2025 21:49:25 +0000</lastBuildDate>
+    <pubDate>Sun, 28 May 2006 10:30:39 +0000</pubDate>
+    <image>
+      <url>https://yt3.ggpht.com/ytc/AIdro_mxzfZOQ4VUZ45Hu8oPlkl6xz9OVnHKpn4yKPkNcOVQGcI=s800-c-k-c0x00ffffff-no-rj</url>
+      <title>hbomberguy</title>
+      <link>https://youtube.com/channel/UClt01z1wHHT7c5lKcU8pxRQ</link>
+    </image>
+    <itunes:author>hbomberguy</itunes:author>
+    <itunes:subtitle>hbomberguy</itunes:subtitle>
+    <itunes:summary><![CDATA[I make videos
+
+Send all enquiries to contact@hbomb.zone]]></itunes:summary>
+    <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_mxzfZOQ4VUZ45Hu8oPlkl6xz9OVnHKpn4yKPkNcOVQGcI=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="TV &amp; Film"></itunes:category>
+  </channel>
+</rss>
