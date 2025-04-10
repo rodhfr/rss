@@ -17,11 +17,11 @@ setup_auto_update.sh just creates a cron job that auto updates rss from this fol
 wget https://raw.githubusercontent.com/rodhfr/rss/refs/heads/main/podcasts.opml # Change to your git username and repository`
 ```
 
-#### PocketCasts
+### PocketCasts
 [Import OPML](https://play.pocketcasts.com/settings/import-export)
 
 
-Known issue: Some of the RSS feeds doesn't import. I believe this is a aggregator side issue with parsing OPML.
+Known issue: Some of the RSS feeds doesn't import. I believe this is an aggregator side issue with parsing OPML.
 
 ## TODO
 
