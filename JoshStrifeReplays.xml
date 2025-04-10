@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Apr 2025 23:52:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 11:56:22 +0000</lastBuildDate>
     <pubDate>Sun, 06 Feb 2022 11:16:15 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/n0cCMFCmU0YM9iUkq1KGcUvl3AWntbzAoOC_HZn9Vjtzb48Sz4UWGVpLFBjQQrKquVyXLArjm5I=s800-c-k-c0x00ffffff-no-rj</url>
@@ -25,5 +25,37 @@ You can watch live at https://www.twitch.tv/joshstrifehayes
     <itunes:image href="https://yt3.ggpht.com/n0cCMFCmU0YM9iUkq1KGcUvl3AWntbzAoOC_HZn9Vjtzb48Sz4UWGVpLFBjQQrKquVyXLArjm5I=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>KUfk1PiqSKw</guid>
+      <title>Josh Strife Hayes Plays: Dark Swoles - Part 5</title>
+      <link>https://youtube.com/watch?v=KUfk1PiqSKw</link>
+      <description>Streamed February 23 2025&#xA;&#xA;Patreon: https://www.patreon.com/joshstrifehayes&#xA;Twitch: https://www.twitch.tv/joshstrifehayes&#xA;Discord: https://discord.com/invite/GM2sCUX&#xA;Twitter: https://www.twitter.com/joshstrifehayes&#xA;Reddit: https://www.reddit.com/r/joshstrifehayes&#xA;&#xA;JoshStrifeHayes Main Youtube Channel:&#xA;https://www.youtube.com/c/JoshStrifeHayes&#xA;&#xA;JoshStrifePlays (2nd YouTube)&#xA;https://www.youtube.com/@JoshStrifePlays&#xA;&#xA;JoshStrifeSays (Clips and Highlights)&#xA;https://www.youtube.com/@JoshStrifeSays&#xA;&#xA;This is the official VOD Channel of Josh Strife Hayes.</description>
+      <pubDate>Thu, 27 Feb 2025 22:00:16 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/JoshStrifeReplays/KUfk1PiqSKw.mp4" length="459048768" type="video/mp4"></enclosure>
+      <itunes:author>Josh Strife Replays</itunes:author>
+      <itunes:subtitle>Josh Strife Hayes Plays: Dark Swoles - Part 5</itunes:subtitle>
+      <itunes:summary><![CDATA[Streamed February 23 2025
+
+Patreon: https://www.patreon.com/joshstrifehayes
+Twitch: https://www.twitch.tv/joshstrifehayes
+Discord: https://discord.com/invite/GM2sCUX
+Twitter: https://www.twitter.com/joshstrifehayes
+Reddit: https://www.reddit.com/r/joshstrifehayes
+
+JoshStrifeHayes Main Youtube Channel:
+https://www.youtube.com/c/JoshStrifeHayes
+
+JoshStrifePlays (2nd YouTube)
+https://www.youtube.com/@JoshStrifePlays
+
+JoshStrifeSays (Clips and Highlights)
+https://www.youtube.com/@JoshStrifeSays
+
+This is the official VOD Channel of Josh Strife Hayes.]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/KUfk1PiqSKw/default.jpg"></itunes:image>
+      <itunes:duration>5:28:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
   </channel>
 </rss>

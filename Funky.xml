@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Apr 2025 00:08:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 11:59:13 +0000</lastBuildDate>
     <pubDate>Tue, 05 Jul 2011 21:51:51 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_mPQNjEjSY1qUziqUrjyJQww4Xr8tAVV_2zngc1U7RXHxRa=s800-c-k-c0x00ffffff-no-rj</url>
@@ -28,5 +28,27 @@ O nome "Funky" vem da música "Funky Monks" do Red Hot Chili Peppers, e também 
     <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_mPQNjEjSY1qUziqUrjyJQww4Xr8tAVV_2zngc1U7RXHxRa=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>FFXoOv2mcP0</guid>
+      <title>OK... hora do revival de Verdansk</title>
+      <link>https://youtube.com/watch?v=FFXoOv2mcP0</link>
+      <description>Os melhores cursos de TI e Programação estão na EBAC - Use o cupom FUNKYEXTRA pra 200 reais de desconto: https://ebac.me/1a67bc&#xA;&#xA;Canais oficiais:&#xA;- Cortes do Funky: http://www.youtube.com/@CortesdoFunky&#xA;- Reddit: http://www.reddit.com/r/funkyblackcat&#xA;- Discord: https://discord.gg/b7FNcrFQcC&#xA;&#xA;Contato comercial: funky@vandep.ag</description>
+      <pubDate>Wed, 09 Apr 2025 03:56:42 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/Funky/FFXoOv2mcP0.mp4" length="536569419" type="video/mp4"></enclosure>
+      <itunes:author>Funky Black Cat</itunes:author>
+      <itunes:subtitle>OK... hora do revival de Verdansk</itunes:subtitle>
+      <itunes:summary><![CDATA[Os melhores cursos de TI e Programação estão na EBAC - Use o cupom FUNKYEXTRA pra 200 reais de desconto: https://ebac.me/1a67bc
+
+Canais oficiais:
+- Cortes do Funky: http://www.youtube.com/@CortesdoFunky
+- Reddit: http://www.reddit.com/r/funkyblackcat
+- Discord: https://discord.gg/b7FNcrFQcC
+
+Contato comercial: funky@vandep.ag]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/FFXoOv2mcP0/default.jpg"></itunes:image>
+      <itunes:duration>5:00:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
   </channel>
 </rss>
