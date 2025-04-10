@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Tech Tangents</title>
+    <link>https://youtube.com/channel/UCerEIdrEW-IqwvlH8lTQUJQ</link>
+    <description>I post things related to computers, programming, and EE.&#xA;&#xA;&#xA;Since I use Linux I get questions about it. Here&#39;s a FAQ:&#xA;&#xA;Q: What Distro do you use?&#xA;A: kubuntu, whatever the newest LTS is.&#xA;&#xA;Q: What DE do you use?&#xA;A: KDE Plasma 5&#xA;&#xA;Q: Why don&#39;t you use Arch, Gentoo, slackware, etc&#xA;A: Ubuntu &#34;Just Works&#34; for me. &#xA;&#xA;&#xA;&#xA;Some other info about how I make videos:&#xA;Camera: Black Magic Pocket Cinema Camera 4k&#xA;Editing Software: Davinci Resolve (Yes, I edit in Linux as well)&#xA;&#xA;If you would like to send something in to the channel you can send me a DM on Discord, or email me at the address in the details on my channels about page&#xA;&#xA;Direct Paypal Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=8SFF6UP3ZPH28</description>
+    <category>TV &amp; Film</category>
+    <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Apr 2025 23:36:50 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Jul 2011 08:46:37 +0000</pubDate>
+    <image>
+      <url>https://yt3.ggpht.com/ytc/AIdro_lTlpdGN60viy1anUxyLRFRWT6iTWP5D9A8MXiy3PfVzpc=s800-c-k-c0x00ffffff-no-rj</url>
+      <title>Tech Tangents</title>
+      <link>https://youtube.com/channel/UCerEIdrEW-IqwvlH8lTQUJQ</link>
+    </image>
+    <itunes:author>Tech Tangents</itunes:author>
+    <itunes:subtitle>Tech Tangents</itunes:subtitle>
+    <itunes:summary><![CDATA[I post things related to computers, programming, and EE.
+
+
+Since I use Linux I get questions about it. Here's a FAQ:
+
+Q: What Distro do you use?
+A: kubuntu, whatever the newest LTS is.
+
+Q: What DE do you use?
+A: KDE Plasma 5
+
+Q: Why don't you use Arch, Gentoo, slackware, etc
+A: Ubuntu "Just Works" for me. 
+
+
+
+Some other info about how I make videos:
+Camera: Black Magic Pocket Cinema Camera 4k
+Editing Software: Davinci Resolve (Yes, I edit in Linux as well)
+
+If you would like to send something in to the channel you can send me a DM on Discord, or email me at the address in the details on my channels about page
+
+Direct Paypal Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8SFF6UP3ZPH28]]></itunes:summary>
+    <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_lTlpdGN60viy1anUxyLRFRWT6iTWP5D9A8MXiy3PfVzpc=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="TV &amp; Film"></itunes:category>
+  </channel>
+</rss>
