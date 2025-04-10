@@ -1,8 +1,10 @@
 # Podsync Public RSS Feed Repo
 
 ## Dependencies 
-* Podsync
-* Cronie
+* [Podsync](https://github.com/mxpv/podsync)
+* Cron
+* Bash 
+* Python 3.0 or later
 ## Setup Auto Updating
 ```bash
 # add this remote repo to your podsync data folder remote path 
@@ -17,9 +19,15 @@ wget https://raw.githubusercontent.com/rodhfr/rss/refs/heads/main/podcasts.opml 
 
 #### PocketCasts
 [Import OPML](https://play.pocketcasts.com/settings/import-export)
+Known issue: Some of the RSS feeds doesn't import. I believe this is a aggregator side issue with parsing OPML.
 
 ## TODO
 
-- [x] implement a way to auto create opml with github raw links to easily import to aggregators
+- [x] implement a way to auto create opml with github raw links to easily import to aggregators.
+- [ ] PocketCasts has a broken OPML import feature, see if this is salvagable.
+- [ ] Write PodAntenna import guide
+
+## Known issues:
+* PocketCasts doesn't import all the feeds from the OPML file this doesn't happen with others aggregators. See the regularity and other OPML formats. See if they have some documentation somewhere.
 
 
