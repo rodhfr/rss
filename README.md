@@ -13,5 +13,5 @@ setup_auto_update.sh just creates a cron job that auto updates rss from this fol
 
 ### TODO
 
-- [ ] implement a way to auto create opml with github raw links to easily import to aggregators such as pockecasts
+- [x] implement a way to auto create opml with github raw links to easily import to aggregators such as pockecasts
 
