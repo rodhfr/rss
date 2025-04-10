@@ -43,22 +43,6 @@ else
     current_path="$custom_path"
 fi
 
-# echo "✅ Auto-updating the git repo at '$current_path' using schedule '$cron_schedule'"
-#
-# # Final cron job string with correct separator
-# cron_job="$cron_schedule cd '$current_path' && git add . && git commit -m 'auto-commit' && git push"
-# cron_job2="$cron_schedule cd '$current_path'/data/create_podcasts_opml.sh"
-#
-#
-# # Check and update crontab
-# if crontab -l 2>/dev/null | grep -Fxq "$cron_job"; then
-#     echo "⚠️ This cron job is already in the crontab. Skipping."
-# else
-#     (crontab -l 2>/dev/null; echo "$cron_job") | crontab -
-#     echo "✅ Crontab updated successfully!"
-# fi
-#_----
-
 
 echo "✅ Auto-updating the git repo at '$current_path' using schedule '$cron_schedule'"
 

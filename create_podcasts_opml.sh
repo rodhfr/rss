@@ -11,35 +11,35 @@ branch_name="main"
 echo "This script is located in: $SCRIPT_DIR"
 
 
-# while true
-# do
-#     read -p "Input your github username to complete link: " user_input
-#     read -p "Confirm username: '$user_input'? (y/n): " confirm
-#     if [[ "$confirm" == "Y" || "$confirm" == 'y' ]]; then
-#         echo "Using '$user_input' username for the link."
-#         git_username="$user_input"
-#         break
-#     else
-#         echo "Failed to save username..."
-#     fi
-# done
-#
-# while true
-# do
-# read -p "Use default branch (main)? (y/n): " confirm
-# if [[ "$confirm" == "Y" || "$confirm" == "y" ]]; then
-#     echo "Using default branch main"
-#     break
-# else
-#     read -p "type your branch name: " user_input
-#     branch_name="$user_input"
-#     break
-# fi
-# done
+while true
+do
+    read -p "Input your github username to complete link: " user_input
+    read -p "Confirm username: '$user_input'? (y/n): " confirm
+    if [[ "$confirm" == "Y" || "$confirm" == 'y' ]]; then
+        echo "Using '$user_input' username for the link."
+        git_username="$user_input"
+        break
+    else
+        echo "Failed to save username..."
+    fi
+done
 
-# TEMPORARY: (REMOVE AFTER AND UNCOMMENT ABOVE)
-git_username="rodhfr"
-branch_name="main"
+while true
+do
+read -p "Use default branch (main)? (y/n): " confirm
+if [[ "$confirm" == "Y" || "$confirm" == "y" ]]; then
+    echo "Using default branch main"
+    break
+else
+    read -p "type your branch name: " user_input
+    branch_name="$user_input"
+    break
+fi
+done
+
+# TEMPORARY: (For debug only)
+# git_username="rodhfr"
+# branch_name="main"
 
 channel_list=$(ls | grep xml)
 echo "Displaying xml files from the folder"
@@ -70,6 +70,6 @@ sleep 1
 
 python3 ./generate_opml.py
 
-echo "Removing links from $output_file"
-rm $output_file
+#echo "Removing links from $output_file"
+#rm $output_file
 echo "done."
