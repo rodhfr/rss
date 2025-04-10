@@ -19,11 +19,13 @@ wget https://raw.githubusercontent.com/rodhfr/rss/refs/heads/main/podcasts.opml 
 
 #### PocketCasts
 [Import OPML](https://play.pocketcasts.com/settings/import-export)
+
+
 Known issue: Some of the RSS feeds doesn't import. I believe this is a aggregator side issue with parsing OPML.
 
 ## TODO
 
-- [x] implement a way to auto create opml with github raw links to easily import to aggregators.
+- [x] Implement a way to auto create opml with github raw links to easily import to aggregators.
 - [ ] PocketCasts has a broken OPML import feature, see if this is salvagable.
 - [ ] Write PodAntenna import guide
 
