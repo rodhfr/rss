@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Apr 2025 11:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 23:36:44 +0000</lastBuildDate>
     <pubDate>Sun, 31 Jan 2016 03:05:01 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_kxwVoxx26XHzLdEnsuKjUcmBXyO_BJG9w4rz9vFVwW4A=s800-c-k-c0x00ffffff-no-rj</url>
@@ -30,6 +30,47 @@ https://www.facebook.com/trasheiraviolenta/
     <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_kxwVoxx26XHzLdEnsuKjUcmBXyO_BJG9w4rz9vFVwW4A=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>zGETvQ02ZJI</guid>
+      <title>Pontypool: Pesadelo Zumbi (2008) - REVIEWS da TRASHEIRA</title>
+      <link>https://youtube.com/watch?v=zGETvQ02ZJI</link>
+      <description>Depois dos zumbis das cosquinhas&#xA;agora temos&#xA;OS ZUMBIS DA SEMIÓTICA&#xA;&#xA;Que pra qualquer um que faz comunicação, é muito aterrorizante&#xA;&#xA;Curta também a Trasheira Violenta:&#xA;https://www.instagram.com/trasheiraviolenta/&#xA;https://www.facebook.com/trasheiraviolenta/&#xA;&#xA;SIGA O LINK PARA VIRAR MEMBRO!&#xA;https://www.youtube.com/channel/UCnXD_lUxCSPF-GqeXHcjqCA/join&#xA;&#xA;ENVIE MIMOS PARA NOSSA CAIXA POSTAL!&#xA;Oswaldo Marchi&#xA;Caixa 70043&#xA;Cep: 22420-970&#xA;Rio de Janeiro - RJ&#xA;&#xA;Oswaldo:&#xA;https://www.instagram.com/oswaldomarchi/&#xA;https://letterboxd.com/OswaldoMarchi/&#xA;https://bsky.app/profile/oswaldomarchi.bsky.social&#xA;&#xA;Karina:&#xA;https://www.instagram.com/kmarchifx/&#xA;https://letterboxd.com/karinamarchi/</description>
+      <pubDate>Thu, 10 Apr 2025 22:01:06 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/TrasheiraViolenta/zGETvQ02ZJI.mp4" length="623405845" type="video/mp4"></enclosure>
+      <itunes:author>Trasheira Violenta</itunes:author>
+      <itunes:subtitle>Pontypool: Pesadelo Zumbi (2008) - REVIEWS da TRASHEIRA</itunes:subtitle>
+      <itunes:summary><![CDATA[Depois dos zumbis das cosquinhas
+agora temos
+OS ZUMBIS DA SEMIÓTICA
+
+Que pra qualquer um que faz comunicação, é muito aterrorizante
+
+Curta também a Trasheira Violenta:
+https://www.instagram.com/trasheiraviolenta/
+https://www.facebook.com/trasheiraviolenta/
+
+SIGA O LINK PARA VIRAR MEMBRO!
+https://www.youtube.com/channel/UCnXD_lUxCSPF-GqeXHcjqCA/join
+
+ENVIE MIMOS PARA NOSSA CAIXA POSTAL!
+Oswaldo Marchi
+Caixa 70043
+Cep: 22420-970
+Rio de Janeiro - RJ
+
+Oswaldo:
+https://www.instagram.com/oswaldomarchi/
+https://letterboxd.com/OswaldoMarchi/
+https://bsky.app/profile/oswaldomarchi.bsky.social
+
+Karina:
+https://www.instagram.com/kmarchifx/
+https://letterboxd.com/karinamarchi/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/zGETvQ02ZJI/default.jpg"></itunes:image>
+      <itunes:duration>27:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>x72fzTxXSwU</guid>
       <title>Peter Pan&#39;s Neverland Nightmare (2025) - REVIEWS da TRASHEIRA</title>
@@ -67,7 +108,7 @@ https://letterboxd.com/karinamarchi/]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/x72fzTxXSwU/default.jpg"></itunes:image>
       <itunes:duration>25:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
   </channel>
 </rss>
