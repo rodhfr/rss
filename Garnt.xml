@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Apr 2025 11:48:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 00:00:05 +0000</lastBuildDate>
     <pubDate>Fri, 20 May 2011 12:17:36 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/RjrYwFX3-GdMQ5T7K_NWxKENv-GfH4vFhSeoJ3WF1huxZdd6ojrqTVZJxCu2pSYjO22MlQqWug=s800-c-k-c0x00ffffff-no-rj</url>
@@ -26,6 +26,29 @@ http://twitter.com/#!/GiggukAZ]]></itunes:summary>
     <itunes:image href="https://yt3.ggpht.com/RjrYwFX3-GdMQ5T7K_NWxKENv-GfH4vFhSeoJ3WF1huxZdd6ojrqTVZJxCu2pSYjO22MlQqWug=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>P0WoGAFdXi4</guid>
+      <title>The Anime Awards Have Changed...</title>
+      <link>https://youtube.com/watch?v=P0WoGAFdXi4</link>
+      <description>Don&#39;t forget to vote in the Crunchyroll Anime Awards! https://got.cr/AA25Gigguk Voting ends of April 14th at 11.59 P.T. so get your picks in whilst you still can! #AnimeAwards #CrunchyrollPartner&#xA;&#xA;Streamed Live on Twitch: http://twitch.tv/Gigguk&#xA;&#xA;Patreon: http://www.Patreon.com/Gigguk&#xA;--------------------------------------------------------------------------&#xA;Follow me on Twitter: http://twitter.com/GiggukAZ&#xA;Like me on Facebook: http://www.facebook.com/GiggukAZ&#xA;Follow me on Instagram: https://www.instagram.com/giggukaz/</description>
+      <pubDate>Fri, 11 Apr 2025 20:04:32 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/Garnt/P0WoGAFdXi4.mp4" length="506289573" type="video/mp4"></enclosure>
+      <itunes:author>Garnt</itunes:author>
+      <itunes:subtitle>The Anime Awards Have Changed...</itunes:subtitle>
+      <itunes:summary><![CDATA[Don't forget to vote in the Crunchyroll Anime Awards! https://got.cr/AA25Gigguk Voting ends of April 14th at 11.59 P.T. so get your picks in whilst you still can! #AnimeAwards #CrunchyrollPartner
+
+Streamed Live on Twitch: http://twitch.tv/Gigguk
+
+Patreon: http://www.Patreon.com/Gigguk
+--------------------------------------------------------------------------
+Follow me on Twitter: http://twitter.com/GiggukAZ
+Like me on Facebook: http://www.facebook.com/GiggukAZ
+Follow me on Instagram: https://www.instagram.com/giggukaz/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/P0WoGAFdXi4/default.jpg"></itunes:image>
+      <itunes:duration>27:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>oNyDy4fAGPk</guid>
       <title>🔴 Voting on the Anime Awards 2025!</title>
@@ -46,7 +69,7 @@ Follow me on Instagram: https://www.instagram.com/giggukaz/]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/oNyDy4fAGPk/default.jpg"></itunes:image>
       <itunes:duration>1:32:28</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
   </channel>
 </rss>

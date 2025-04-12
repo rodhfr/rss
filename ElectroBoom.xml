@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Apr 2025 11:48:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 00:35:59 +0000</lastBuildDate>
     <pubDate>Sat, 23 Jun 2007 21:17:43 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_nnG7-mZVY0oCnbM1yY_pGC_uOA-AoWYlpvDI9kOW5JDFE=s800-c-k-c0x00ffffff-no-rj</url>
@@ -33,6 +33,21 @@ See my awesome and generous sponsors here: https://www.electroboom.com/?page_id=
     <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_nnG7-mZVY0oCnbM1yY_pGC_uOA-AoWYlpvDI9kOW5JDFE=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>jUkex-blvkE</guid>
+      <title>How a Capacitor Works #technology #electrical #funny</title>
+      <link>https://youtube.com/watch?v=jUkex-blvkE</link>
+      <description>Don&#39;t for get to watch the full version of the videos!</description>
+      <pubDate>Fri, 11 Apr 2025 17:12:57 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/ElectroBoom/jUkex-blvkE.mp4" length="3188685" type="video/mp4"></enclosure>
+      <itunes:author>ElectroBOOM</itunes:author>
+      <itunes:subtitle>How a Capacitor Works #technology #electrical #funny</itunes:subtitle>
+      <itunes:summary><![CDATA[Don't for get to watch the full version of the videos!]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/jUkex-blvkE/default.jpg"></itunes:image>
+      <itunes:duration>0:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>bsfBxs53vBo</guid>
       <title>Australian Electricity Better than UK?!</title>
@@ -70,7 +85,7 @@ By: Mehdi Sadaghdar]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/bsfBxs53vBo/default.jpg"></itunes:image>
       <itunes:duration>23:48</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>czgTn7UK7A0</guid>
@@ -85,7 +100,7 @@ By: Mehdi Sadaghdar]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/czgTn7UK7A0/default.jpg"></itunes:image>
       <itunes:duration>1:28</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
   </channel>
 </rss>

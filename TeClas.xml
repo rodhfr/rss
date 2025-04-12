@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Apr 2025 11:48:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 00:00:27 +0000</lastBuildDate>
     <pubDate>Wed, 17 May 2023 00:32:31 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/y0-zQqSDKHe1pOZKueSpTm_HOZcrdnHpA4Jt0djmVoRzzZjSru3CYPxUbTRBzj1H9bTwR07u=s800-c-k-c0x00ffffff-no-rj</url>
@@ -20,6 +20,30 @@
     <itunes:image href="https://yt3.ggpht.com/y0-zQqSDKHe1pOZKueSpTm_HOZcrdnHpA4Jt0djmVoRzzZjSru3CYPxUbTRBzj1H9bTwR07u=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>zTcbjDnzrA8</guid>
+      <title>GERADOR DE IMAGENS DO CHATGPT DEU UM SALTO DE QUALIDADE ENORME | Tecnologia e Classe</title>
+      <link>https://youtube.com/watch?v=zTcbjDnzrA8</link>
+      <description>Há um tempo atrás eu tentei gerar variações de uma mesma imagem usando o Gemini 2.0/2.5 que era &#39;extremamente&#39; avançado e ainda tive dificuldade. Agora o novo algoritmo da OpenAI no ChatGPT parece que consegue fazer muito mais que estúdio Ghibli. Além disso falamos do Gemini 2.5 gerando código.&#xA;&#xA;Apoie o canal: https://apoia.se/tecnologiaeclasse&#xA;Contribua com um pix: https://tipa.ai/TIPAYSWADOPU7EPPTX6U94ZSLOHZ&#xA;&#xA;Thumbnails feitas por: https://www.instagram.com/pedroluiz.psd/&#xA;Introdução por: https://www.instagram.com/bryanoliver.rgb/&#xA;Música de abertura: https://www.youtube.com/watch?v=zFgeSGJLGYc&#xA;&#xA;Esse é o Canal TeClas, aqui é tecnologia e classe.</description>
+      <pubDate>Fri, 11 Apr 2025 14:45:14 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/TeClas/zTcbjDnzrA8.mp4" length="105231912" type="video/mp4"></enclosure>
+      <itunes:author>Tecnologia e Classe (TeClas)</itunes:author>
+      <itunes:subtitle>GERADOR DE IMAGENS DO CHATGPT DEU UM SALTO DE QUALIDADE ENORME | Tecnologia e Classe</itunes:subtitle>
+      <itunes:summary><![CDATA[Há um tempo atrás eu tentei gerar variações de uma mesma imagem usando o Gemini 2.0/2.5 que era 'extremamente' avançado e ainda tive dificuldade. Agora o novo algoritmo da OpenAI no ChatGPT parece que consegue fazer muito mais que estúdio Ghibli. Além disso falamos do Gemini 2.5 gerando código.
+
+Apoie o canal: https://apoia.se/tecnologiaeclasse
+Contribua com um pix: https://tipa.ai/TIPAYSWADOPU7EPPTX6U94ZSLOHZ
+
+Thumbnails feitas por: https://www.instagram.com/pedroluiz.psd/
+Introdução por: https://www.instagram.com/bryanoliver.rgb/
+Música de abertura: https://www.youtube.com/watch?v=zFgeSGJLGYc
+
+Esse é o Canal TeClas, aqui é tecnologia e classe.]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/zTcbjDnzrA8/default.jpg"></itunes:image>
+      <itunes:duration>15:52</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>ag3EnKRXCbg</guid>
       <title>DOGE QUER MIGRAR SISTEMA DO GOVERNO DE COBOL PRA JAVA | Tecnologia e Classe</title>
@@ -42,7 +66,7 @@ Esse é o Canal TeClas, aqui é tecnologia e classe.]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ag3EnKRXCbg/default.jpg"></itunes:image>
       <itunes:duration>11:58</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>umqjbY7VTi8</guid>
@@ -66,7 +90,7 @@ Esse é o Canal TeClas, aqui é tecnologia e classe.]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/umqjbY7VTi8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>10:20</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
   </channel>
 </rss>
