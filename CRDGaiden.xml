@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Apr 2025 00:30:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 12:06:37 +0000</lastBuildDate>
     <pubDate>Thu, 22 Apr 2021 02:49:23 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_kjZ_ECPfN47kfF6MpygNUSlTDAVY0Hn82essAC1E1rsQ=s800-c-k-c0x00ffffff-no-rj</url>
@@ -21,6 +21,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
     <item>
+      <guid>9c8nFq5v9Wg</guid>
+      <title>DEC VXT200 boot process</title>
+      <link>https://youtube.com/watch?v=9c8nFq5v9Wg</link>
+      <description>I spent the last couple days getting a DEC VXT200 X terminal set up, cabled and bootable. It&#39;s much, much harder than you&#39;d think and involves an absurd rigamarole of setting up multiple emulated DEC machines including a VAX and InfoServer in order to get the *correct* boot server setup. There&#39;s no way to simplify the process, because this thing actually uses the InfoServer as *swap space* due to its extremely limited local RAM. You can run it in &#34;Host Mode&#34; where it does not do this, but supposedly it&#39;s a worse experience so I haven&#39;t tried it yet.&#xA;&#xA;Anyway, here&#39;s what it looks like to boot up from cold and connect to an HP-UX machine. Notice that it takes over six minutes to get into a session - I have no idea if that&#39;s normal, but I suspect it is for the era (~1994.)&#xA;&#xA;Also, I don&#39;t know why the entire CDE session doesn&#39;t appear - the panel and desktop background don&#39;t show up, and there&#39;s no obvious way to get to an app launcher, so I suspect this is not the intended experience.</description>
+      <pubDate>Sun, 13 Apr 2025 06:16:22 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/CRDGaiden/9c8nFq5v9Wg.mp4" length="24856434" type="video/mp4"></enclosure>
+      <itunes:author>Cathode Ray Dude Gaiden</itunes:author>
+      <itunes:subtitle>DEC VXT200 boot process</itunes:subtitle>
+      <itunes:summary><![CDATA[I spent the last couple days getting a DEC VXT200 X terminal set up, cabled and bootable. It's much, much harder than you'd think and involves an absurd rigamarole of setting up multiple emulated DEC machines including a VAX and InfoServer in order to get the *correct* boot server setup. There's no way to simplify the process, because this thing actually uses the InfoServer as *swap space* due to its extremely limited local RAM. You can run it in "Host Mode" where it does not do this, but supposedly it's a worse experience so I haven't tried it yet.
+
+Anyway, here's what it looks like to boot up from cold and connect to an HP-UX machine. Notice that it takes over six minutes to get into a session - I have no idea if that's normal, but I suspect it is for the era (~1994.)
+
+Also, I don't know why the entire CDE session doesn't appear - the panel and desktop background don't show up, and there's no obvious way to get to an app launcher, so I suspect this is not the intended experience.]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/9c8nFq5v9Wg/default.jpg"></itunes:image>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+    <item>
       <guid>4Str3t9dsnM</guid>
       <title>Frog Science Facts!</title>
       <link>https://youtube.com/watch?v=4Str3t9dsnM</link>
@@ -33,7 +52,7 @@
       <itunes:image href="https://i.ytimg.com/vi/4Str3t9dsnM/default.jpg"></itunes:image>
       <itunes:duration>5:36:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
   </channel>
 </rss>
