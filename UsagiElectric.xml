@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Apr 2025 12:06:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 02:13:24 +0000</lastBuildDate>
     <pubDate>Wed, 28 Jun 2006 16:19:07 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_kWMFAwYC31RD7DDFfN_EPnf-eSiyUajXqyPYLqCbE_uNw=s800-c-k-c0x00ffffff-no-rj</url>
@@ -24,6 +24,54 @@ Usagi Electric covers one of my main passions, while my other main passion can b
     <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_kWMFAwYC31RD7DDFfN_EPnf-eSiyUajXqyPYLqCbE_uNw=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>JsbzHNOEsZ4</guid>
+      <title>I Tried and Failed to Run a Simple Program…</title>
+      <link>https://youtube.com/watch?v=JsbzHNOEsZ4</link>
+      <description>In the previous UE1 episode, I thought I had everything all wrapped up. It appeared to run the memory program with no problems, so I decided to run something a little more intense – Fibonacci. It’s still a simple program, but it hits all sorts of different parts of the computer and it went… poorly. Like dramatically poorly. &#xA;&#xA;Silver lining though, I have an emulator for the computer now!&#xA;https://github.com/Nakazoto/UEVTC/tree/main/UE1/Emulator&#xA;&#xA;If you want to support the channel please hop over to Patreon:&#xA;https://www.patreon.com/usagielectric&#xA;&#xA;Also, we now have some epic shirts for sale!&#xA;https://my-store-11554688.creator-spring.com&#xA;&#xA;Come join us on Discord!&#xA;&#xA;Discord: https://discord.gg/p7UsfHD &#xA;&#xA;Intro Music adapted from:&#xA;Artist: The Runaway Five&#xA;Title: The Shinra Shuffle&#xA;https://ocremix.org/remix/OCR01847&#xA;&#xA;Thanks for watching!&#xA;&#xA;Chapters&#xA;0:00 More than nothing, but less than something&#xA;1:02 Understanding the architecture&#xA;4:38 The Fibonacci sequence&#xA;6:47 The emulator&#xA;9:24 The assembler&#xA;11:50 And then it all goes terribly wrong… (CM)&#xA;14:58 Yup, still broken&#xA;19:34 The beard! No, not the beard! Anything but the beard!&#xA;21:42 Yup, still broken part three&#xA;23:06 Old man yells at clouds…&#xA;24:29 Happy kitty!</description>
+      <pubDate>Sun, 13 Apr 2025 12:10:18 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/UsagiElectric/JsbzHNOEsZ4.mp4" length="354540325" type="video/mp4"></enclosure>
+      <itunes:author>Usagi Electric</itunes:author>
+      <itunes:subtitle>I Tried and Failed to Run a Simple Program…</itunes:subtitle>
+      <itunes:summary><![CDATA[In the previous UE1 episode, I thought I had everything all wrapped up. It appeared to run the memory program with no problems, so I decided to run something a little more intense – Fibonacci. It’s still a simple program, but it hits all sorts of different parts of the computer and it went… poorly. Like dramatically poorly. 
+
+Silver lining though, I have an emulator for the computer now!
+https://github.com/Nakazoto/UEVTC/tree/main/UE1/Emulator
+
+If you want to support the channel please hop over to Patreon:
+https://www.patreon.com/usagielectric
+
+Also, we now have some epic shirts for sale!
+https://my-store-11554688.creator-spring.com
+
+Come join us on Discord!
+
+Discord: https://discord.gg/p7UsfHD 
+
+Intro Music adapted from:
+Artist: The Runaway Five
+Title: The Shinra Shuffle
+https://ocremix.org/remix/OCR01847
+
+Thanks for watching!
+
+Chapters
+0:00 More than nothing, but less than something
+1:02 Understanding the architecture
+4:38 The Fibonacci sequence
+6:47 The emulator
+9:24 The assembler
+11:50 And then it all goes terribly wrong… (CM)
+14:58 Yup, still broken
+19:34 The beard! No, not the beard! Anything but the beard!
+21:42 Yup, still broken part three
+23:06 Old man yells at clouds…
+24:29 Happy kitty!]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/JsbzHNOEsZ4/default.jpg"></itunes:image>
+      <itunes:duration>25:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>DuVU8fXi9qI</guid>
       <title>The Astatic D-104 is the Most Beautiful Microphone Ever Made!</title>
@@ -65,7 +113,7 @@ Chapters
       <itunes:image href="https://i.ytimg.com/vi/DuVU8fXi9qI/default.jpg"></itunes:image>
       <itunes:duration>19:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
   </channel>
 </rss>

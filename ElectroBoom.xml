@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Apr 2025 11:35:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 02:13:33 +0000</lastBuildDate>
     <pubDate>Sat, 23 Jun 2007 21:17:43 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_nnG7-mZVY0oCnbM1yY_pGC_uOA-AoWYlpvDI9kOW5JDFE=s800-c-k-c0x00ffffff-no-rj</url>
@@ -86,21 +86,6 @@ By: Mehdi Sadaghdar]]></itunes:summary>
       <itunes:duration>23:48</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>2</itunes:order>
-    </item>
-    <item>
-      <guid>czgTn7UK7A0</guid>
-      <title>Measure + Fail #experiment #electronics #science #funny</title>
-      <link>https://youtube.com/watch?v=czgTn7UK7A0</link>
-      <description>It is quite tough to measure really high voltage! BE CAREFUL!</description>
-      <pubDate>Thu, 03 Apr 2025 15:59:05 +0000</pubDate>
-      <enclosure url="https://feed.rodhfr.shop/ElectroBoom/czgTn7UK7A0.mp4" length="24095048" type="video/mp4"></enclosure>
-      <itunes:author>ElectroBOOM</itunes:author>
-      <itunes:subtitle>Measure + Fail #experiment #electronics #science #funny</itunes:subtitle>
-      <itunes:summary><![CDATA[It is quite tough to measure really high voltage! BE CAREFUL!]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/czgTn7UK7A0/default.jpg"></itunes:image>
-      <itunes:duration>1:28</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
     </item>
   </channel>
 </rss>

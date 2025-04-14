@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Apr 2025 12:06:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 02:13:28 +0000</lastBuildDate>
     <pubDate>Thu, 22 Apr 2021 02:49:23 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_kjZ_ECPfN47kfF6MpygNUSlTDAVY0Hn82essAC1E1rsQ=s800-c-k-c0x00ffffff-no-rj</url>
@@ -20,6 +20,29 @@
     <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_kjZ_ECPfN47kfF6MpygNUSlTDAVY0Hn82essAC1E1rsQ=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>WlUe5F_4mak</guid>
+      <title>DEC VXT2000 connecting to Red Hat 6.1</title>
+      <link>https://youtube.com/watch?v=WlUe5F_4mak</link>
+      <description>I wanted to play xevil on the VXT, but I wasn&#39;t sure if it could talk to something new enough to have a prebuilt package. The terminal came out around 1992, so I decided to stand up Red Hat 6.1 (1999) and see if it would talk. The answer is a qualified yes.&#xA;&#xA;As with the last test, it takes an extremely long time to connect. I&#39;m not sure why; I need to look at wireshark and see if it&#39;s swapping hard to the InfoServer, that could explain it. Certainly it&#39;s not a lack of local processing power because once the session is up and running it kinda goes like gangbusters, so maybe upgrading the RAM in the VXT will alleviate this. Kind of defeats the purpose of Server Mode, but what can you do, RAM used to be $$$.&#xA;&#xA;As you can see, it connects, gets a GDM banner, actually picks up the *entire* Gnome 1 environment (unlike HP-UX CDE which failed to spawn the panel and desktop) and is able to launch apps. It takes forever to start each app, but then they run remarkably well! GIMP explodes due to some kind of weird GIMP nonsense (it seems to spawn 500,000 windows telling me it can&#39;t access swap; I don&#39;t think that&#39;s the VXTs fault) but check out how fast it transfers that gradient across the 10baseT. Likewise, Netscape takes a while to start, but it&#39;s LIGHTNING fast scrolling through my website even with a bunch of big images. So again, I&#39;m convinced the slow startup has nothing to do with CPU or network speed.&#xA;&#xA;The fonts are mostly trashed and I suspect that&#39;s due to X not finding a font and falling back to something inappropriate. I need to see if XFS is running and connecting to resolve this.&#xA;&#xA;I should note that this is being captured off the VXT2000&#39;s monitor port through an Extron scaler, so this is the actual performance of a non-upgraded 1992 X terminal - but from what I&#39;ve read, the VXT2000 is *exceptional* in that regard, and most at the time were much slower.</description>
+      <pubDate>Sun, 13 Apr 2025 18:59:46 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/CRDGaiden/WlUe5F_4mak.mp4" length="33100411" type="video/mp4"></enclosure>
+      <itunes:author>Cathode Ray Dude Gaiden</itunes:author>
+      <itunes:subtitle>DEC VXT2000 connecting to Red Hat 6.1</itunes:subtitle>
+      <itunes:summary><![CDATA[I wanted to play xevil on the VXT, but I wasn't sure if it could talk to something new enough to have a prebuilt package. The terminal came out around 1992, so I decided to stand up Red Hat 6.1 (1999) and see if it would talk. The answer is a qualified yes.
+
+As with the last test, it takes an extremely long time to connect. I'm not sure why; I need to look at wireshark and see if it's swapping hard to the InfoServer, that could explain it. Certainly it's not a lack of local processing power because once the session is up and running it kinda goes like gangbusters, so maybe upgrading the RAM in the VXT will alleviate this. Kind of defeats the purpose of Server Mode, but what can you do, RAM used to be $$$.
+
+As you can see, it connects, gets a GDM banner, actually picks up the *entire* Gnome 1 environment (unlike HP-UX CDE which failed to spawn the panel and desktop) and is able to launch apps. It takes forever to start each app, but then they run remarkably well! GIMP explodes due to some kind of weird GIMP nonsense (it seems to spawn 500,000 windows telling me it can't access swap; I don't think that's the VXTs fault) but check out how fast it transfers that gradient across the 10baseT. Likewise, Netscape takes a while to start, but it's LIGHTNING fast scrolling through my website even with a bunch of big images. So again, I'm convinced the slow startup has nothing to do with CPU or network speed.
+
+The fonts are mostly trashed and I suspect that's due to X not finding a font and falling back to something inappropriate. I need to see if XFS is running and connecting to resolve this.
+
+I should note that this is being captured off the VXT2000's monitor port through an Extron scaler, so this is the actual performance of a non-upgraded 1992 X terminal - but from what I've read, the VXT2000 is *exceptional* in that regard, and most at the time were much slower.]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/WlUe5F_4mak/default.jpg"></itunes:image>
+      <itunes:duration>8:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>9c8nFq5v9Wg</guid>
       <title>DEC VXT200 boot process</title>
@@ -36,21 +59,6 @@ Anyway, here's what it looks like to boot up from cold and connect to an HP-UX m
 Also, I don't know why the entire CDE session doesn't appear - the panel and desktop background don't show up, and there's no obvious way to get to an app launcher, so I suspect this is not the intended experience.]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/9c8nFq5v9Wg/default.jpg"></itunes:image>
       <itunes:duration>10:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
-    </item>
-    <item>
-      <guid>4Str3t9dsnM</guid>
-      <title>Frog Science Facts!</title>
-      <link>https://youtube.com/watch?v=4Str3t9dsnM</link>
-      <description> </description>
-      <pubDate>Mon, 27 Jan 2025 03:31:16 +0000</pubDate>
-      <enclosure url="https://feed.rodhfr.shop/CRDGaiden/4Str3t9dsnM.mp4" length="10587735418" type="video/mp4"></enclosure>
-      <itunes:author>Cathode Ray Dude Gaiden</itunes:author>
-      <itunes:subtitle>Frog Science Facts!</itunes:subtitle>
-      <itunes:summary></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/4Str3t9dsnM/default.jpg"></itunes:image>
-      <itunes:duration>5:36:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>2</itunes:order>
     </item>

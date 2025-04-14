@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Apr 2025 12:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 02:13:45 +0000</lastBuildDate>
     <pubDate>Tue, 05 Jul 2011 21:51:51 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_mPQNjEjSY1qUziqUrjyJQww4Xr8tAVV_2zngc1U7RXHxRa=s800-c-k-c0x00ffffff-no-rj</url>
@@ -29,6 +29,25 @@ O nome "Funky" vem da música "Funky Monks" do Red Hot Chili Peppers, e também 
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
     <item>
+      <guid>NZYvZB-hz6U</guid>
+      <title>Live tocando Red Hot / Mostrando o Pedalboard</title>
+      <link>https://youtube.com/watch?v=NZYvZB-hz6U</link>
+      <description>Canais oficiais:&#xA;- Cortes do Funky: http://www.youtube.com/@CortesdoFunky&#xA;- Reddit: http://www.reddit.com/r/funkyblackcat&#xA;- Discord: https://discord.gg/b7FNcrFQcC&#xA;&#xA;Contato comercial: funky@vandep.ag</description>
+      <pubDate>Sat, 12 Apr 2025 22:53:31 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/Funky/NZYvZB-hz6U.mp4" length="506353127" type="video/mp4"></enclosure>
+      <itunes:author>Funky Black Cat</itunes:author>
+      <itunes:subtitle>Live tocando Red Hot / Mostrando o Pedalboard</itunes:subtitle>
+      <itunes:summary><![CDATA[Canais oficiais:
+- Cortes do Funky: http://www.youtube.com/@CortesdoFunky
+- Reddit: http://www.reddit.com/r/funkyblackcat
+- Discord: https://discord.gg/b7FNcrFQcC
+
+Contato comercial: funky@vandep.ag]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/NZYvZB-hz6U/default_live.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+    <item>
       <guid>jHmfRJOgBf8</guid>
       <title>Hoje é até o FINAL. Talvez. (The First Berserker: Khazan - Parte 11)</title>
       <link>https://youtube.com/watch?v=jHmfRJOgBf8</link>
@@ -48,28 +67,6 @@ Contato comercial: funky@vandep.ag]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/jHmfRJOgBf8/default_live.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>2</itunes:order>
-    </item>
-    <item>
-      <guid>FFXoOv2mcP0</guid>
-      <title>OK... hora do revival de Verdansk</title>
-      <link>https://youtube.com/watch?v=FFXoOv2mcP0</link>
-      <description>Os melhores cursos de TI e Programação estão na EBAC - Use o cupom FUNKYEXTRA pra 200 reais de desconto: https://ebac.me/1a67bc&#xA;&#xA;Canais oficiais:&#xA;- Cortes do Funky: http://www.youtube.com/@CortesdoFunky&#xA;- Reddit: http://www.reddit.com/r/funkyblackcat&#xA;- Discord: https://discord.gg/b7FNcrFQcC&#xA;&#xA;Contato comercial: funky@vandep.ag</description>
-      <pubDate>Wed, 09 Apr 2025 03:56:42 +0000</pubDate>
-      <enclosure url="https://feed.rodhfr.shop/Funky/FFXoOv2mcP0.mp4" length="536569419" type="video/mp4"></enclosure>
-      <itunes:author>Funky Black Cat</itunes:author>
-      <itunes:subtitle>OK... hora do revival de Verdansk</itunes:subtitle>
-      <itunes:summary><![CDATA[Os melhores cursos de TI e Programação estão na EBAC - Use o cupom FUNKYEXTRA pra 200 reais de desconto: https://ebac.me/1a67bc
-
-Canais oficiais:
-- Cortes do Funky: http://www.youtube.com/@CortesdoFunky
-- Reddit: http://www.reddit.com/r/funkyblackcat
-- Discord: https://discord.gg/b7FNcrFQcC
-
-Contato comercial: funky@vandep.ag]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/FFXoOv2mcP0/default.jpg"></itunes:image>
-      <itunes:duration>5:00:35</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
     </item>
   </channel>
 </rss>

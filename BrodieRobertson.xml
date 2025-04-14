@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Apr 2025 12:06:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 02:13:37 +0000</lastBuildDate>
     <pubDate>Wed, 03 Jul 2013 11:53:47 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_mfmPEv0_faow63TOWIMqzx3Idan_GRCOtQubiP32skc38=s800-c-k-c0x00ffffff-no-rj</url>
@@ -26,6 +26,57 @@ Email: brodierobertsonbusiness@gmail.com
     <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_mfmPEv0_faow63TOWIMqzx3Idan_GRCOtQubiP32skc38=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>geKDXux1e94</guid>
+      <title>This Is Why I Love Linux Desktops</title>
+      <link>https://youtube.com/watch?v=geKDXux1e94</link>
+      <description>What I love the most about open source projects is they&#39;re not afraid to just yoink ideas that come from another project if they happen to be good ideas like what COSMIC did with KDEs X11 legacy hot key feature.&#xA;&#xA;==========Support The Channel==========&#xA;► Patreon: https://brodierobertson.xyz/patreon&#xA;► Paypal: https://brodierobertson.xyz/paypal&#xA;► Liberapay: https://brodierobertson.xyz/liberapay&#xA;► Amazon USA: https://brodierobertson.xyz/amazonusa&#xA;&#xA;==========Resources==========&#xA;COSMIC Issue: https://github.com/pop-os/cosmic-comp/issues/897&#xA;Othe Direction: https://github.com/pop-os/xdg-desktop-portal-cosmic/issues/4&#xA;&#xA;=========Video Platforms==========&#xA;🎥 Odysee: https://brodierobertson.xyz/odysee&#xA;🎥 Podcast: https://techovertea.xyz/youtube&#xA;🎮 Gaming: https://brodierobertson.xyz/gaming&#xA;&#xA;==========Social Media==========&#xA;🎤 Discord: https://brodierobertson.xyz/discord&#xA;🐦 Twitter: https://brodierobertson.xyz/twitter&#xA;🌐 Mastodon: https://brodierobertson.xyz/mastodon&#xA;🖥️ GitHub: https://brodierobertson.xyz/github&#xA;&#xA;==========Credits==========&#xA;🎨 Channel Art:&#xA;Profile Picture:&#xA;https://www.instagram.com/supercozman_draws/&#xA;&#xA;🎵 Ending music&#xA;Track: Debris &amp; Jonth - Game Time [NCS Release]&#xA;Music provided by NoCopyrightSounds.&#xA;Watch:  https://www.youtube.com/watch?v=yDTvvOTie0w &#xA;Free Download / Stream: http://ncs.io/GameTime&#xA;&#xA;#Linux #COSMIC #KDE #OpenSource #FOSS&#xA;&#xA;DISCLOSURE: Wherever possible I use referral links, which means if you click one of the links in this video or description and make a purchase I may receive a small commission or other compensation.</description>
+      <pubDate>Sun, 13 Apr 2025 21:00:28 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/BrodieRobertson/geKDXux1e94.mp3" length="7846869" type="audio/mpeg"></enclosure>
+      <itunes:author>Brodie Robertson</itunes:author>
+      <itunes:subtitle>This Is Why I Love Linux Desktops</itunes:subtitle>
+      <itunes:summary><![CDATA[What I love the most about open source projects is they're not afraid to just yoink ideas that come from another project if they happen to be good ideas like what COSMIC did with KDEs X11 legacy hot key feature.
+
+==========Support The Channel==========
+► Patreon: https://brodierobertson.xyz/patreon
+► Paypal: https://brodierobertson.xyz/paypal
+► Liberapay: https://brodierobertson.xyz/liberapay
+► Amazon USA: https://brodierobertson.xyz/amazonusa
+
+==========Resources==========
+COSMIC Issue: https://github.com/pop-os/cosmic-comp/issues/897
+Othe Direction: https://github.com/pop-os/xdg-desktop-portal-cosmic/issues/4
+
+=========Video Platforms==========
+🎥 Odysee: https://brodierobertson.xyz/odysee
+🎥 Podcast: https://techovertea.xyz/youtube
+🎮 Gaming: https://brodierobertson.xyz/gaming
+
+==========Social Media==========
+🎤 Discord: https://brodierobertson.xyz/discord
+🐦 Twitter: https://brodierobertson.xyz/twitter
+🌐 Mastodon: https://brodierobertson.xyz/mastodon
+🖥️ GitHub: https://brodierobertson.xyz/github
+
+==========Credits==========
+🎨 Channel Art:
+Profile Picture:
+https://www.instagram.com/supercozman_draws/
+
+🎵 Ending music
+Track: Debris & Jonth - Game Time [NCS Release]
+Music provided by NoCopyrightSounds.
+Watch:  https://www.youtube.com/watch?v=yDTvvOTie0w 
+Free Download / Stream: http://ncs.io/GameTime
+
+#Linux #COSMIC #KDE #OpenSource #FOSS
+
+DISCLOSURE: Wherever possible I use referral links, which means if you click one of the links in this video or description and make a purchase I may receive a small commission or other compensation.]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/geKDXux1e94/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>13:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>llC2RQ1sHmo</guid>
       <title>Nvidia Cares About Open Source... Sometimes</title>
@@ -77,114 +128,7 @@ DISCLOSURE: Wherever possible I use referral links, which means if you click one
       <itunes:image href="https://i.ytimg.com/vi/llC2RQ1sHmo/maxresdefault.jpg"></itunes:image>
       <itunes:duration>11:37</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
-    </item>
-    <item>
-      <guid>sR1_Jwx6oHQ</guid>
-      <title>Wait... Systemd Made A Linux Distro???</title>
-      <link>https://youtube.com/watch?v=sR1_Jwx6oHQ</link>
-      <description>Systemd is a core software suite across most Linux distros but there&#39;s a lot more in that suite than you typically use, so why not build a Linux distro that uses as much systemd tech as possible&#xA;&#xA;==========Support The Channel==========&#xA;► Patreon: https://brodierobertson.xyz/patreon&#xA;► Paypal: https://brodierobertson.xyz/paypal&#xA;► Liberapay: https://brodierobertson.xyz/liberapay&#xA;► Amazon USA: https://brodierobertson.xyz/amazonusa&#xA;&#xA;==========Resources==========&#xA;ParticleOS Github: https://github.com/systemd/particleos&#xA;Poettering Blog: https://0pointer.net/blog/fitting-everything-together.html&#xA;ParticleOS Talk: https://fosdem.org/2025/schedule/event/fosdem-2025-4057-particleos-can-we-make-lennart-poettering-run-an-image-based-distribution-/&#xA;&#xA;=========Video Platforms==========&#xA;🎥 Odysee: https://brodierobertson.xyz/odysee&#xA;🎥 Podcast: https://techovertea.xyz/youtube&#xA;🎮 Gaming: https://brodierobertson.xyz/gaming&#xA;&#xA;==========Social Media==========&#xA;🎤 Discord: https://brodierobertson.xyz/discord&#xA;🐦 Twitter: https://brodierobertson.xyz/twitter&#xA;🌐 Mastodon: https://brodierobertson.xyz/mastodon&#xA;🖥️ GitHub: https://brodierobertson.xyz/github&#xA;&#xA;==========Credits==========&#xA;🎨 Channel Art:&#xA;Profile Picture:&#xA;https://www.instagram.com/supercozman_draws/&#xA;&#xA;🎵 Ending music&#xA;Track: Debris &amp; Jonth - Game Time [NCS Release]&#xA;Music provided by NoCopyrightSounds.&#xA;Watch:  https://www.youtube.com/watch?v=yDTvvOTie0w &#xA;Free Download / Stream: http://ncs.io/GameTime&#xA;&#xA;#Systemd #Linux #OpenSource #FOSS #LinuxDistro&#xA;&#xA;DISCLOSURE: Wherever possible I use referral links, which means if you click one of the links in this video or description and make a purchase I may receive a small commission or other compensation.</description>
-      <pubDate>Thu, 10 Apr 2025 21:00:52 +0000</pubDate>
-      <enclosure url="https://feed.rodhfr.shop/BrodieRobertson/sR1_Jwx6oHQ.mp3" length="10673133" type="audio/mpeg"></enclosure>
-      <itunes:author>Brodie Robertson</itunes:author>
-      <itunes:subtitle>Wait... Systemd Made A Linux Distro???</itunes:subtitle>
-      <itunes:summary><![CDATA[Systemd is a core software suite across most Linux distros but there's a lot more in that suite than you typically use, so why not build a Linux distro that uses as much systemd tech as possible
-
-==========Support The Channel==========
-► Patreon: https://brodierobertson.xyz/patreon
-► Paypal: https://brodierobertson.xyz/paypal
-► Liberapay: https://brodierobertson.xyz/liberapay
-► Amazon USA: https://brodierobertson.xyz/amazonusa
-
-==========Resources==========
-ParticleOS Github: https://github.com/systemd/particleos
-Poettering Blog: https://0pointer.net/blog/fitting-everything-together.html
-ParticleOS Talk: https://fosdem.org/2025/schedule/event/fosdem-2025-4057-particleos-can-we-make-lennart-poettering-run-an-image-based-distribution-/
-
-=========Video Platforms==========
-🎥 Odysee: https://brodierobertson.xyz/odysee
-🎥 Podcast: https://techovertea.xyz/youtube
-🎮 Gaming: https://brodierobertson.xyz/gaming
-
-==========Social Media==========
-🎤 Discord: https://brodierobertson.xyz/discord
-🐦 Twitter: https://brodierobertson.xyz/twitter
-🌐 Mastodon: https://brodierobertson.xyz/mastodon
-🖥️ GitHub: https://brodierobertson.xyz/github
-
-==========Credits==========
-🎨 Channel Art:
-Profile Picture:
-https://www.instagram.com/supercozman_draws/
-
-🎵 Ending music
-Track: Debris & Jonth - Game Time [NCS Release]
-Music provided by NoCopyrightSounds.
-Watch:  https://www.youtube.com/watch?v=yDTvvOTie0w 
-Free Download / Stream: http://ncs.io/GameTime
-
-#Systemd #Linux #OpenSource #FOSS #LinuxDistro
-
-DISCLOSURE: Wherever possible I use referral links, which means if you click one of the links in this video or description and make a purchase I may receive a small commission or other compensation.]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/sR1_Jwx6oHQ/maxresdefault.jpg"></itunes:image>
-      <itunes:duration>18:14</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
       <itunes:order>2</itunes:order>
-    </item>
-    <item>
-      <guid>mCoozzwtFoo</guid>
-      <title>Asahi Linux Hits A Major Roadblock</title>
-      <link>https://youtube.com/watch?v=mCoozzwtFoo</link>
-      <description>Asahi Linux has passed every roadblock it&#39;s hit so far and I have no doubt that they&#39;ll overcome this one but they have hit a roadblock with the newest M4 Apple silicon ARM chips&#xA;&#xA;==========Support The Channel==========&#xA;► Patreon: https://brodierobertson.xyz/patreon&#xA;► Paypal: https://brodierobertson.xyz/paypal&#xA;► Liberapay: https://brodierobertson.xyz/liberapay&#xA;► Amazon USA: https://brodierobertson.xyz/amazonusa&#xA;&#xA;==========Resources==========&#xA;Sven Peter Post: https://social.treehouse.systems/@sven/114278224116678776&#xA;m1n1 Github: https://github.com/AsahiLinux/m1n1&#xA;OS Security: https://support.apple.com/en-au/guide/security/sec8b776536b/web&#xA;Chrultabook: https://docs.chrultrabook.com/&#xA;Page Table Wikipedia: https://en.wikipedia.org/wiki/Page_table&#xA;MMU Wikipedia: https://en.wikipedia.org/wiki/Memory_management_unit&#xA;&#xA;=========Video Platforms==========&#xA;🎥 Odysee: https://brodierobertson.xyz/odysee&#xA;🎥 Podcast: https://techovertea.xyz/youtube&#xA;🎮 Gaming: https://brodierobertson.xyz/gaming&#xA;&#xA;==========Social Media==========&#xA;🎤 Discord: https://brodierobertson.xyz/discord&#xA;🐦 Twitter: https://brodierobertson.xyz/twitter&#xA;🌐 Mastodon: https://brodierobertson.xyz/mastodon&#xA;🖥️ GitHub: https://brodierobertson.xyz/github&#xA;&#xA;==========Credits==========&#xA;🎨 Channel Art:&#xA;Profile Picture:&#xA;https://www.instagram.com/supercozman_draws/&#xA;&#xA;🎵 Ending music&#xA;Track: Debris &amp; Jonth - Game Time [NCS Release]&#xA;Music provided by NoCopyrightSounds.&#xA;Watch:  https://www.youtube.com/watch?v=yDTvvOTie0w &#xA;Free Download / Stream: http://ncs.io/GameTime&#xA;&#xA;#AsahiLinux #Linux #OpenSource #FOSS&#xA;&#xA;DISCLOSURE: Wherever possible I use referral links, which means if you click one of the links in this video or description and make a purchase I may receive a small commission or other compensation.</description>
-      <pubDate>Wed, 09 Apr 2025 21:00:47 +0000</pubDate>
-      <enclosure url="https://feed.rodhfr.shop/BrodieRobertson/mCoozzwtFoo.mp3" length="9288309" type="audio/mpeg"></enclosure>
-      <itunes:author>Brodie Robertson</itunes:author>
-      <itunes:subtitle>Asahi Linux Hits A Major Roadblock</itunes:subtitle>
-      <itunes:summary><![CDATA[Asahi Linux has passed every roadblock it's hit so far and I have no doubt that they'll overcome this one but they have hit a roadblock with the newest M4 Apple silicon ARM chips
-
-==========Support The Channel==========
-► Patreon: https://brodierobertson.xyz/patreon
-► Paypal: https://brodierobertson.xyz/paypal
-► Liberapay: https://brodierobertson.xyz/liberapay
-► Amazon USA: https://brodierobertson.xyz/amazonusa
-
-==========Resources==========
-Sven Peter Post: https://social.treehouse.systems/@sven/114278224116678776
-m1n1 Github: https://github.com/AsahiLinux/m1n1
-OS Security: https://support.apple.com/en-au/guide/security/sec8b776536b/web
-Chrultabook: https://docs.chrultrabook.com/
-Page Table Wikipedia: https://en.wikipedia.org/wiki/Page_table
-MMU Wikipedia: https://en.wikipedia.org/wiki/Memory_management_unit
-
-=========Video Platforms==========
-🎥 Odysee: https://brodierobertson.xyz/odysee
-🎥 Podcast: https://techovertea.xyz/youtube
-🎮 Gaming: https://brodierobertson.xyz/gaming
-
-==========Social Media==========
-🎤 Discord: https://brodierobertson.xyz/discord
-🐦 Twitter: https://brodierobertson.xyz/twitter
-🌐 Mastodon: https://brodierobertson.xyz/mastodon
-🖥️ GitHub: https://brodierobertson.xyz/github
-
-==========Credits==========
-🎨 Channel Art:
-Profile Picture:
-https://www.instagram.com/supercozman_draws/
-
-🎵 Ending music
-Track: Debris & Jonth - Game Time [NCS Release]
-Music provided by NoCopyrightSounds.
-Watch:  https://www.youtube.com/watch?v=yDTvvOTie0w 
-Free Download / Stream: http://ncs.io/GameTime
-
-#AsahiLinux #Linux #OpenSource #FOSS
-
-DISCLOSURE: Wherever possible I use referral links, which means if you click one of the links in this video or description and make a purchase I may receive a small commission or other compensation.]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/mCoozzwtFoo/maxresdefault.jpg"></itunes:image>
-      <itunes:duration>15:56</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
     </item>
   </channel>
 </rss>
