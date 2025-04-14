@@ -43,6 +43,7 @@
       <outline text="TrasheiraViolenta" type="rss" xmlUrl="https://raw.githubusercontent.com/rodhfr/rss/refs/heads/main/TrasheiraViolenta.xml" />
       <outline text="UsagiElectric" type="rss" xmlUrl="https://raw.githubusercontent.com/rodhfr/rss/refs/heads/main/UsagiElectric.xml" />
       <outline text="Veritasium" type="rss" xmlUrl="https://raw.githubusercontent.com/rodhfr/rss/refs/heads/main/Veritasium.xml" />
+      <outline text="VeronicaExplainsNothing" type="rss" xmlUrl="https://raw.githubusercontent.com/rodhfr/rss/refs/heads/main/VeronicaExplainsNothing.xml" />
       <outline text="VeronicaExplains" type="rss" xmlUrl="https://raw.githubusercontent.com/rodhfr/rss/refs/heads/main/VeronicaExplains.xml" />
     </outline>
   </body>
