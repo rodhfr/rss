@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Apr 2025 02:14:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 14:16:45 +0000</lastBuildDate>
     <pubDate>Sun, 22 Oct 2006 03:42:47 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_nh0ipg2nlS0ytudsD5Yhaa9W6Xt2XWzCK6EML0KeMhiA=s800-c-k-c0x00ffffff-no-rj</url>
@@ -25,6 +25,29 @@ Feel free to drop me a line on Discord or Mastodon if you've got an interesting 
     <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_nh0ipg2nlS0ytudsD5Yhaa9W6Xt2XWzCK6EML0KeMhiA=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>k9-f40jmxL8</guid>
+      <title>🇬🇷 Greek Studies - MOVING TO A NEW CHANNEL 🇬🇷 (EN-GR) #3</title>
+      <link>https://youtube.com/watch?v=k9-f40jmxL8</link>
+      <description>SUPPORT THE CHANNEL:&#xA;StreamLabs: https://streamlabs.com/ncommander&#xA;Patreon: https://www.patreon.com/ncommander&#xA;Ko-Fi: https://ko-fi.com/ncommander&#xA;&#xA;SOCIAL MEDIA:&#xA;Discord: https://discord.gg/V8esNah&#xA;Mastodon: https://social.restless.systems/@ncommander&#xA;Wiki: https://wiki.restless.systems</description>
+      <pubDate>Tue, 15 Apr 2025 06:07:58 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/NCommander/k9-f40jmxL8.mp4" length="361668077" type="video/mp4"></enclosure>
+      <itunes:author>NCommander</itunes:author>
+      <itunes:subtitle>🇬🇷 Greek Studies - MOVING TO A NEW CHANNEL 🇬🇷 (EN-GR) #3</itunes:subtitle>
+      <itunes:summary><![CDATA[SUPPORT THE CHANNEL:
+StreamLabs: https://streamlabs.com/ncommander
+Patreon: https://www.patreon.com/ncommander
+Ko-Fi: https://ko-fi.com/ncommander
+
+SOCIAL MEDIA:
+Discord: https://discord.gg/V8esNah
+Mastodon: https://social.restless.systems/@ncommander
+Wiki: https://wiki.restless.systems]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/k9-f40jmxL8/default.jpg"></itunes:image>
+      <itunes:duration>1:37:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>9-JMYRNbkIc</guid>
       <title>I Got Services for UNIX on XP Working, Now Can I Make It Do Something Useful?</title>
@@ -44,28 +67,6 @@ Discord: https://discord.gg/V8esNah
 Mastodon: https://social.restless.systems/@ncommander
 Wiki: https://wiki.restless.systems]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/9-JMYRNbkIc/default_live.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
-    </item>
-    <item>
-      <guid>pYCUCYhcTJM</guid>
-      <title>Insomniac Retro Modded Minecraft1.2.5 - FtB Retro SSP - Fixing my EMC Problems #3</title>
-      <link>https://youtube.com/watch?v=pYCUCYhcTJM</link>
-      <description>SUPPORT THE CHANNEL:&#xA;StreamLabs: https://streamlabs.com/ncommander&#xA;Patreon: https://www.patreon.com/ncommander&#xA;Ko-Fi: https://ko-fi.com/ncommander&#xA;&#xA;SOCIAL MEDIA:&#xA;Discord: https://discord.gg/V8esNah&#xA;Mastodon: https://social.restless.systems/@ncommander&#xA;Wiki: https://wiki.restless.systems</description>
-      <pubDate>Thu, 10 Apr 2025 19:30:27 +0000</pubDate>
-      <enclosure url="https://feed.rodhfr.shop/NCommander/pYCUCYhcTJM.mp4" length="3424041697" type="video/mp4"></enclosure>
-      <itunes:author>NCommander</itunes:author>
-      <itunes:subtitle>Insomniac Retro Modded Minecraft1.2.5 - FtB Retro SSP - Fixing my EMC Problems #3</itunes:subtitle>
-      <itunes:summary><![CDATA[SUPPORT THE CHANNEL:
-StreamLabs: https://streamlabs.com/ncommander
-Patreon: https://www.patreon.com/ncommander
-Ko-Fi: https://ko-fi.com/ncommander
-
-SOCIAL MEDIA:
-Discord: https://discord.gg/V8esNah
-Mastodon: https://social.restless.systems/@ncommander
-Wiki: https://wiki.restless.systems]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/pYCUCYhcTJM/default_live.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>2</itunes:order>
     </item>
