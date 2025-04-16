@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Apr 2025 14:17:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 02:17:33 +0000</lastBuildDate>
     <pubDate>Wed, 17 May 2023 00:32:31 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/y0-zQqSDKHe1pOZKueSpTm_HOZcrdnHpA4Jt0djmVoRzzZjSru3CYPxUbTRBzj1H9bTwR07u=s800-c-k-c0x00ffffff-no-rj</url>
@@ -20,6 +20,30 @@
     <itunes:image href="https://yt3.ggpht.com/y0-zQqSDKHe1pOZKueSpTm_HOZcrdnHpA4Jt0djmVoRzzZjSru3CYPxUbTRBzj1H9bTwR07u=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>c4mJZf9ev-I</guid>
+      <title>GOOGLE VAI FECHAR O ANDROID? / TECLAS EM PODCAST | Tecnologia e Classe</title>
+      <link>https://youtube.com/watch?v=c4mJZf9ev-I</link>
+      <description>Não dá pra fechar o que já não era lá muito aberto, mas vamos conversar um pouco sobre o Google mudando o seu modelo de desenvolvimento pro Android. Além disso eu vou recomendar uns vídeos pra vocês se informarem melhor e falo sobre a minha participação no &#39;Regras do Jogo&#39;&#xA;&#xA;Apoie o canal: https://apoia.se/tecnologiaeclasse&#xA;Contribua com um pix: https://tipa.ai/TIPAYSWADOPU7EPPTX6U94ZSLOHZ&#xA;&#xA;Thumbnails feitas por: https://www.instagram.com/pedroluiz.psd/&#xA;Introdução por: https://www.instagram.com/bryanoliver.rgb/&#xA;Música de abertura: https://www.youtube.com/watch?v=zFgeSGJLGYc&#xA;&#xA;Esse é o Canal TeClas, aqui é tecnologia e classe.</description>
+      <pubDate>Tue, 15 Apr 2025 14:30:33 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/TeClas/c4mJZf9ev-I.mp4" length="50215980" type="video/mp4"></enclosure>
+      <itunes:author>Tecnologia e Classe (TeClas)</itunes:author>
+      <itunes:subtitle>GOOGLE VAI FECHAR O ANDROID? / TECLAS EM PODCAST | Tecnologia e Classe</itunes:subtitle>
+      <itunes:summary><![CDATA[Não dá pra fechar o que já não era lá muito aberto, mas vamos conversar um pouco sobre o Google mudando o seu modelo de desenvolvimento pro Android. Além disso eu vou recomendar uns vídeos pra vocês se informarem melhor e falo sobre a minha participação no 'Regras do Jogo'
+
+Apoie o canal: https://apoia.se/tecnologiaeclasse
+Contribua com um pix: https://tipa.ai/TIPAYSWADOPU7EPPTX6U94ZSLOHZ
+
+Thumbnails feitas por: https://www.instagram.com/pedroluiz.psd/
+Introdução por: https://www.instagram.com/bryanoliver.rgb/
+Música de abertura: https://www.youtube.com/watch?v=zFgeSGJLGYc
+
+Esse é o Canal TeClas, aqui é tecnologia e classe.]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/c4mJZf9ev-I/default.jpg"></itunes:image>
+      <itunes:duration>6:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>wriICEQSWew</guid>
       <title>A CRISE É ESTÉTICA E A ESTÉTICA É ARTIFICIAL | Tecnologia e Classe</title>
@@ -41,39 +65,6 @@ Música de abertura: https://www.youtube.com/watch?v=zFgeSGJLGYc
 Esse é o Canal TeClas, aqui é tecnologia e classe.]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/wriICEQSWew/default.jpg"></itunes:image>
       <itunes:duration>6:52</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
-    </item>
-    <item>
-      <guid>hUuH9zyKzbs</guid>
-      <title>RUSTLINGS 4: HASHMAP E OPTIONS | Tecnologia e Classe</title>
-      <link>https://youtube.com/watch?v=hUuH9zyKzbs</link>
-      <description>Esse é o quarto episódio da nossa série aprendendo Rust e, pra ser bem sincero, eu to começando a passar um pouco de dificuldade aqui hehehe &#xA;&#xA;Apoie o canal: https://apoia.se/tecnologiaeclasse&#xA;Contribua com um pix: https://tipa.ai/TIPAYSWADOPU7EPPTX6U94ZSLOHZ&#xA;&#xA;Thumbnails feitas por: https://www.instagram.com/pedroluiz.psd/&#xA;Introdução por: https://www.instagram.com/bryanoliver.rgb/&#xA;Música de abertura: https://www.youtube.com/watch?v=zFgeSGJLGYc&#xA;&#xA;00:00 Introdução&#xA;00:18 Hashmaps 1&#xA;04:30 Hashmaps 2&#xA;09:31 Hashmaps 3&#xA;23:07 Options 1&#xA;28:40 Options 2&#xA;39:56 Options 3&#xA;43:10 Conclusão&#xA;&#xA;Esse é o Canal TeClas, aqui é tecnologia e classe.</description>
-      <pubDate>Sun, 13 Apr 2025 14:30:23 +0000</pubDate>
-      <enclosure url="https://feed.rodhfr.shop/TeClas/hUuH9zyKzbs.mp4" length="313270709" type="video/mp4"></enclosure>
-      <itunes:author>Tecnologia e Classe (TeClas)</itunes:author>
-      <itunes:subtitle>RUSTLINGS 4: HASHMAP E OPTIONS | Tecnologia e Classe</itunes:subtitle>
-      <itunes:summary><![CDATA[Esse é o quarto episódio da nossa série aprendendo Rust e, pra ser bem sincero, eu to começando a passar um pouco de dificuldade aqui hehehe 
-
-Apoie o canal: https://apoia.se/tecnologiaeclasse
-Contribua com um pix: https://tipa.ai/TIPAYSWADOPU7EPPTX6U94ZSLOHZ
-
-Thumbnails feitas por: https://www.instagram.com/pedroluiz.psd/
-Introdução por: https://www.instagram.com/bryanoliver.rgb/
-Música de abertura: https://www.youtube.com/watch?v=zFgeSGJLGYc
-
-00:00 Introdução
-00:18 Hashmaps 1
-04:30 Hashmaps 2
-09:31 Hashmaps 3
-23:07 Options 1
-28:40 Options 2
-39:56 Options 3
-43:10 Conclusão
-
-Esse é o Canal TeClas, aqui é tecnologia e classe.]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/hUuH9zyKzbs/default.jpg"></itunes:image>
-      <itunes:duration>43:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>2</itunes:order>
     </item>
