@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Apr 2025 04:34:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 11:19:27 +0000</lastBuildDate>
     <pubDate>Thu, 19 Aug 2021 19:52:24 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/wls8S_vlkUkkb0uONaGEUPqjd-x733li-6yNy_hSubJ89h1FSrK8g3bGZHReAuoLDPRy0BpVjg=s800-c-k-c0x00ffffff-no-rj</url>
@@ -25,6 +25,41 @@ Channel run by Visa
     <itunes:image href="https://yt3.ggpht.com/wls8S_vlkUkkb0uONaGEUPqjd-x733li-6yNy_hSubJ89h1FSrK8g3bGZHReAuoLDPRy0BpVjg=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>6mj35ReyrQ4</guid>
+      <title>I&#39;m back from Japan and I&#39;m changed (Insufferable Arc)</title>
+      <link>https://youtube.com/watch?v=6mj35ReyrQ4</link>
+      <description>Patreon: https://www.patreon.com/joshstrifehayes&#xA;Twitch: https://www.twitch.tv/joshstrifehayes&#xA;Discord: https://discord.gg/GM2sCUX&#xA;Bluesky: https://bsky.app/profile/joshstrifehayes.bsky.social&#xA;Twitter: https://www.twitter.com/joshstrifehayes&#xA;Reddit: https://www.reddit.com/r/joshstrifehayes&#xA;Tiktok https://www.tiktok.com/@joshstrifehayes&#xA;&#xA;JoshStrifeHayes Main Youtube Channel:&#xA;https://www.youtube.com/c/JoshStrifeHayes&#xA;&#xA;JoshStrifePlays (2nd YouTube)&#xA;https://www.youtube.com/channel/UCR9X2tT0_WVfuYO17vqstlA&#xA;&#xA;JoshStrifeReplays (Full Twitch VODs)&#xA;https://www.youtube.com/channel/UCSUJ--dc-N8Xa4b4TekaUkQ&#xA;&#xA;Official Josh Strife Hayes Clip channel&#xA;Editing, Thumbnails and Management by @VisaWorksVideos&#xA;&#xA;#shorts #JoshStrifeHayes #twitch #clips</description>
+      <pubDate>Fri, 18 Apr 2025 09:51:35 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/JoshStrifeSays/6mj35ReyrQ4.mp4" length="350314103" type="video/mp4"></enclosure>
+      <itunes:author> Josh Strife Says</itunes:author>
+      <itunes:subtitle>I&#39;m back from Japan and I&#39;m changed (Insufferable Arc)</itunes:subtitle>
+      <itunes:summary><![CDATA[Patreon: https://www.patreon.com/joshstrifehayes
+Twitch: https://www.twitch.tv/joshstrifehayes
+Discord: https://discord.gg/GM2sCUX
+Bluesky: https://bsky.app/profile/joshstrifehayes.bsky.social
+Twitter: https://www.twitter.com/joshstrifehayes
+Reddit: https://www.reddit.com/r/joshstrifehayes
+Tiktok https://www.tiktok.com/@joshstrifehayes
+
+JoshStrifeHayes Main Youtube Channel:
+https://www.youtube.com/c/JoshStrifeHayes
+
+JoshStrifePlays (2nd YouTube)
+https://www.youtube.com/channel/UCR9X2tT0_WVfuYO17vqstlA
+
+JoshStrifeReplays (Full Twitch VODs)
+https://www.youtube.com/channel/UCSUJ--dc-N8Xa4b4TekaUkQ
+
+Official Josh Strife Hayes Clip channel
+Editing, Thumbnails and Management by @VisaWorksVideos
+
+#shorts #JoshStrifeHayes #twitch #clips]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/6mj35ReyrQ4/default.jpg"></itunes:image>
+      <itunes:duration>14:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>VcuLGdD9VMc</guid>
       <title>top 3 gaming moments</title>
@@ -58,7 +93,7 @@ Editing, Thumbnails and Management by @VisaWorksVideos
       <itunes:image href="https://i.ytimg.com/vi/VcuLGdD9VMc/default.jpg"></itunes:image>
       <itunes:duration>1:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
   </channel>
 </rss>
