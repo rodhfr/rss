@@ -14,11 +14,11 @@ cd "$repo_path" || exit 1
 
 echo "📂 Working in: $repo_path"
 
-# Check if there's anything to commit
-if git diff --quiet && git diff --cached --quiet; then
-    echo "✅ No changes to commit."
-    exit 0
-fi
+# # Check if there's anything to commit
+# if git diff --quiet && git diff --cached --quiet; then
+#     echo "✅ No changes to commit."
+#     exit 0
+# fi
 
 timestamp=$(date +"%Y-%m-%d %H:%M:%S")
 commit_msg="manual commit at $timestamp"
