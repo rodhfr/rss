@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>rbiana</title>
+    <link>https://youtube.com/channel/UCDfRoZgAMaGCnUyl5n2yECw</link>
+    <description>os vídeos são tirados das minhas lives!&#xA;</description>
+    <category>TV &amp; Film</category>
+    <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 May 2025 12:27:53 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Dec 2020 20:28:00 +0000</pubDate>
+    <image>
+      <url>https://yt3.ggpht.com/pI8AhXTLQhHo8qGuH9-FaMT3JWm2epSny0tZNEf1IXGqJJNrZ71Mqibbu7vMQBCyirmUjwjT=s800-c-k-c0x00ffffff-no-rj</url>
+      <title>rbiana</title>
+      <link>https://youtube.com/channel/UCDfRoZgAMaGCnUyl5n2yECw</link>
+    </image>
+    <itunes:author>rbiana</itunes:author>
+    <itunes:subtitle>rbiana</itunes:subtitle>
+    <itunes:summary><![CDATA[os vídeos são tirados das minhas lives!
+]]></itunes:summary>
+    <itunes:image href="https://yt3.ggpht.com/pI8AhXTLQhHo8qGuH9-FaMT3JWm2epSny0tZNEf1IXGqJJNrZ71Mqibbu7vMQBCyirmUjwjT=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="TV &amp; Film"></itunes:category>
+  </channel>
+</rss>
