@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Signified B Sides</title>
+    <link>https://youtube.com/channel/UCInOR_Jhe-MH-IDSJ2BSOVA</link>
+    <description>Signified B Sides is basically my rant space for content and topics that don&#39;t really fit into the main channel.  Videos here will be even more unpolished and less scripted. I plan on doing addendums to the main videos as well as rants on topics that don&#39;t fully fit into the scope of the main channel. Ideally, eventually, I&#39;ll maybe have some commentary tracks and things like that.  </description>
+    <category>TV &amp; Film</category>
+    <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 May 2025 20:18:01 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Jan 2021 14:08:02 +0000</pubDate>
+    <image>
+      <url>https://yt3.ggpht.com/y9eUsxbF-nnEnC0AlH3gdtQBAz2UG4BXVqc6G8QLcfj-bZOXhPK5lHA1aOfO-wGlti1Ovrm1Wg=s800-c-k-c0x00ffffff-no-rj</url>
+      <title>Signified B Sides</title>
+      <link>https://youtube.com/channel/UCInOR_Jhe-MH-IDSJ2BSOVA</link>
+    </image>
+    <itunes:author>Signified B Sides</itunes:author>
+    <itunes:subtitle>Signified B Sides</itunes:subtitle>
+    <itunes:summary><![CDATA[Signified B Sides is basically my rant space for content and topics that don't really fit into the main channel.  Videos here will be even more unpolished and less scripted. I plan on doing addendums to the main videos as well as rants on topics that don't fully fit into the scope of the main channel. Ideally, eventually, I'll maybe have some commentary tracks and things like that.  ]]></itunes:summary>
+    <itunes:image href="https://yt3.ggpht.com/y9eUsxbF-nnEnC0AlH3gdtQBAz2UG4BXVqc6G8QLcfj-bZOXhPK5lHA1aOfO-wGlti1Ovrm1Wg=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>O3tH-dwC7Ic</guid>
+      <title>Marc Lamont Hill is on a KILLING SPREE</title>
+      <link>https://youtube.com/watch?v=O3tH-dwC7Ic</link>
+      <description> </description>
+      <pubDate>Fri, 16 May 2025 16:04:38 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/SignifierBSides/O3tH-dwC7Ic.mp4" length="498095904" type="video/mp4"></enclosure>
+      <itunes:author>Signified B Sides</itunes:author>
+      <itunes:subtitle>Marc Lamont Hill is on a KILLING SPREE</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/O3tH-dwC7Ic/default.jpg"></itunes:image>
+      <itunes:duration>12:48</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+  </channel>
+</rss>

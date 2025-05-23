@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Tech Tangents</title>
+    <link>https://youtube.com/channel/UCerEIdrEW-IqwvlH8lTQUJQ</link>
+    <description>I post things related to computers, programming, and EE.&#xA;&#xA;&#xA;Since I use Linux I get questions about it. Here&#39;s a FAQ:&#xA;&#xA;Q: What Distro do you use?&#xA;A: kubuntu, whatever the newest LTS is.&#xA;&#xA;Q: What DE do you use?&#xA;A: KDE Plasma 5&#xA;&#xA;Q: Why don&#39;t you use Arch, Gentoo, slackware, etc&#xA;A: Ubuntu &#34;Just Works&#34; for me. &#xA;&#xA;&#xA;&#xA;Some other info about how I make videos:&#xA;Camera: Black Magic Pocket Cinema Camera 4k&#xA;Editing Software: Davinci Resolve (Yes, I edit in Linux as well)&#xA;&#xA;If you would like to send something in to the channel you can send me a DM on Discord, or email me at the address in the details on my channels about page&#xA;&#xA;Direct Paypal Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=8SFF6UP3ZPH28</description>
+    <category>TV &amp; Film</category>
+    <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 May 2025 20:18:01 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Jul 2011 08:46:37 +0000</pubDate>
+    <image>
+      <url>https://yt3.ggpht.com/ytc/AIdro_lTlpdGN60viy1anUxyLRFRWT6iTWP5D9A8MXiy3PfVzpc=s800-c-k-c0x00ffffff-no-rj</url>
+      <title>Tech Tangents</title>
+      <link>https://youtube.com/channel/UCerEIdrEW-IqwvlH8lTQUJQ</link>
+    </image>
+    <itunes:author>Tech Tangents</itunes:author>
+    <itunes:subtitle>Tech Tangents</itunes:subtitle>
+    <itunes:summary><![CDATA[I post things related to computers, programming, and EE.
+
+
+Since I use Linux I get questions about it. Here's a FAQ:
+
+Q: What Distro do you use?
+A: kubuntu, whatever the newest LTS is.
+
+Q: What DE do you use?
+A: KDE Plasma 5
+
+Q: Why don't you use Arch, Gentoo, slackware, etc
+A: Ubuntu "Just Works" for me. 
+
+
+
+Some other info about how I make videos:
+Camera: Black Magic Pocket Cinema Camera 4k
+Editing Software: Davinci Resolve (Yes, I edit in Linux as well)
+
+If you would like to send something in to the channel you can send me a DM on Discord, or email me at the address in the details on my channels about page
+
+Direct Paypal Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8SFF6UP3ZPH28]]></itunes:summary>
+    <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_lTlpdGN60viy1anUxyLRFRWT6iTWP5D9A8MXiy3PfVzpc=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>zU_TrJ8Y2hU</guid>
+      <title>70s Floppy Drive Repair - Data General 6039</title>
+      <link>https://youtube.com/watch?v=zU_TrJ8Y2hU</link>
+      <description>My Data General microNOVA&#39;s floppy drive was hiding a problem that didn&#39;t reveal itself until I thought I was all done with repairs. The right floppy drive couldn&#39;t write. So I set out to fix it which was a much more annoying process than I thought it would be.&#xA;&#xA;Here&#39;s the partial layout of the CDC BR803E floppy drive (at the time I&#39;m posting this the site is down for maintenance):&#xA;https://git.techtangents.net/akbkuku/controldatabr803elayout &#xA;&#xA;Here are some ways to help me make more videos!&#xA;&#xA;Buy some Merch:&#xA;Merch: https://tech-tangents.creator-spring.com/&#xA;&#xA;Leave a one time tip:&#xA;Paypal one-time: https://paypal.me/AkBKukU&#xA;Ko-fi: https://ko-fi.com/techtangents&#xA;&#xA;Amazon Wishlist for Production Gear:&#xA;https://www.amazon.com/hz/wishlist/ls/2PC7JPEH76Q3W&#xA;&#xA;Become a monthly supporter:&#xA;Patreon: https://www.patreon.com/AkBKukU&#xA;Youtube Membership: https://www.youtube.com/channel/UCerEIdrEW-IqwvlH8lTQUJQ/join&#xA;Paypal Monthly: https://techtangents.net/support/&#xA;&#xA;&#xA;&#xA;Other Links&#xA;Youtube: https://www.youtube.com/AkBKukU&#xA;Twitch: https://www.twitch.tv/techtangents&#xA;Fediverse: https://dialup.space/@TechTangents&#xA;Github: https://github.com/AkBKukU&#xA;Thingiverse: https://www.thingiverse.com/AkBKukU&#xA;Discord: https://discord.gg/E6xgGs6</description>
+      <pubDate>Sat, 10 May 2025 20:44:21 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/TechTangents/zU_TrJ8Y2hU.mp4" length="277860745" type="video/mp4"></enclosure>
+      <itunes:author>Tech Tangents</itunes:author>
+      <itunes:subtitle>70s Floppy Drive Repair - Data General 6039</itunes:subtitle>
+      <itunes:summary><![CDATA[My Data General microNOVA's floppy drive was hiding a problem that didn't reveal itself until I thought I was all done with repairs. The right floppy drive couldn't write. So I set out to fix it which was a much more annoying process than I thought it would be.
+
+Here's the partial layout of the CDC BR803E floppy drive (at the time I'm posting this the site is down for maintenance):
+https://git.techtangents.net/akbkuku/controldatabr803elayout 
+
+Here are some ways to help me make more videos!
+
+Buy some Merch:
+Merch: https://tech-tangents.creator-spring.com/
+
+Leave a one time tip:
+Paypal one-time: https://paypal.me/AkBKukU
+Ko-fi: https://ko-fi.com/techtangents
+
+Amazon Wishlist for Production Gear:
+https://www.amazon.com/hz/wishlist/ls/2PC7JPEH76Q3W
+
+Become a monthly supporter:
+Patreon: https://www.patreon.com/AkBKukU
+Youtube Membership: https://www.youtube.com/channel/UCerEIdrEW-IqwvlH8lTQUJQ/join
+Paypal Monthly: https://techtangents.net/support/
+
+
+
+Other Links
+Youtube: https://www.youtube.com/AkBKukU
+Twitch: https://www.twitch.tv/techtangents
+Fediverse: https://dialup.space/@TechTangents
+Github: https://github.com/AkBKukU
+Thingiverse: https://www.thingiverse.com/AkBKukU
+Discord: https://discord.gg/E6xgGs6]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/zU_TrJ8Y2hU/default.jpg"></itunes:image>
+      <itunes:duration>14:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+  </channel>
+</rss>

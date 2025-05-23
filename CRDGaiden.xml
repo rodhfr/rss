@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Cathode Ray Dude Gaiden</title>
+    <link>https://youtube.com/channel/UCqDbZac1bo_WEPau9c5R5WQ</link>
+    <description>This is a side channel for livestreams, weird side projects, and stuff that will screw up the stats for my main channel, Cathode Ray Dude.</description>
+    <category>TV &amp; Film</category>
+    <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 May 2025 20:19:53 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Apr 2021 02:49:23 +0000</pubDate>
+    <image>
+      <url>https://yt3.ggpht.com/ytc/AIdro_kjZ_ECPfN47kfF6MpygNUSlTDAVY0Hn82essAC1E1rsQ=s800-c-k-c0x00ffffff-no-rj</url>
+      <title>Cathode Ray Dude Gaiden</title>
+      <link>https://youtube.com/channel/UCqDbZac1bo_WEPau9c5R5WQ</link>
+    </image>
+    <itunes:author>Cathode Ray Dude Gaiden</itunes:author>
+    <itunes:subtitle>Cathode Ray Dude Gaiden</itunes:subtitle>
+    <itunes:summary><![CDATA[This is a side channel for livestreams, weird side projects, and stuff that will screw up the stats for my main channel, Cathode Ray Dude.]]></itunes:summary>
+    <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_kjZ_ECPfN47kfF6MpygNUSlTDAVY0Hn82essAC1E1rsQ=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="TV &amp; Film"></itunes:category>
+  </channel>
+</rss>

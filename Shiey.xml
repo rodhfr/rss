@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>shiey</title>
+    <link>https://youtube.com/channel/UCpXwMqnXfJzazKS5fJ8nrVw</link>
+    <description>artist adventurer</description>
+    <category>TV &amp; Film</category>
+    <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 May 2025 20:14:04 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Sep 2013 15:27:56 +0000</pubDate>
+    <image>
+      <url>https://yt3.ggpht.com/0KqCVFL1jCAbhrj7BzaaxruIP4nw94hZyhpwmqWkTgNcVE8d3PjyiZce00D2d3F9wqFVAeZrIv8=s800-c-k-c0x00ffffff-no-rj</url>
+      <title>shiey</title>
+      <link>https://youtube.com/channel/UCpXwMqnXfJzazKS5fJ8nrVw</link>
+    </image>
+    <itunes:author>shiey</itunes:author>
+    <itunes:subtitle>shiey</itunes:subtitle>
+    <itunes:summary><![CDATA[artist adventurer]]></itunes:summary>
+    <itunes:image href="https://yt3.ggpht.com/0KqCVFL1jCAbhrj7BzaaxruIP4nw94hZyhpwmqWkTgNcVE8d3PjyiZce00D2d3F9wqFVAeZrIv8=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="TV &amp; Film"></itunes:category>
+  </channel>
+</rss>

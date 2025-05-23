@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>NCommander</title>
+    <link>https://youtube.com/channel/UCWyrVfwRL-2DOkzsqrbjo5Q</link>
+    <description>I&#39;m NCommander, also known as FOSSFirefighter in various parts of the Internet. I have a passion for retrotech, digital preservation, and studying the facts that help build the technological world we live in today.&#xA;&#xA;In the past, I used to professionally develop the Ubuntu operating system, volunteered as an interior firefighter in Henrietta, NY, and traveled across the world living out of a backpack for years at a time. I don&#39;t know where this road is going to take me, but I enjoy making content on YouTube, and I&#39;m always hoping to find that rare &#34;grail in the garbage&#34; moment whenever I start a new project.&#xA;&#xA;Feel free to drop me a line on Discord or Mastodon if you&#39;ve got an interesting tip, and as always, I&#39;m wishing you all a great day.&#xA;</description>
+    <category>TV &amp; Film</category>
+    <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 May 2025 20:13:56 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Oct 2006 03:42:47 +0000</pubDate>
+    <image>
+      <url>https://yt3.ggpht.com/ytc/AIdro_nh0ipg2nlS0ytudsD5Yhaa9W6Xt2XWzCK6EML0KeMhiA=s800-c-k-c0x00ffffff-no-rj</url>
+      <title>NCommander</title>
+      <link>https://youtube.com/channel/UCWyrVfwRL-2DOkzsqrbjo5Q</link>
+    </image>
+    <itunes:author>NCommander</itunes:author>
+    <itunes:subtitle>NCommander</itunes:subtitle>
+    <itunes:summary><![CDATA[I'm NCommander, also known as FOSSFirefighter in various parts of the Internet. I have a passion for retrotech, digital preservation, and studying the facts that help build the technological world we live in today.
+
+In the past, I used to professionally develop the Ubuntu operating system, volunteered as an interior firefighter in Henrietta, NY, and traveled across the world living out of a backpack for years at a time. I don't know where this road is going to take me, but I enjoy making content on YouTube, and I'm always hoping to find that rare "grail in the garbage" moment whenever I start a new project.
+
+Feel free to drop me a line on Discord or Mastodon if you've got an interesting tip, and as always, I'm wishing you all a great day.
+]]></itunes:summary>
+    <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_nh0ipg2nlS0ytudsD5Yhaa9W6Xt2XWzCK6EML0KeMhiA=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>Z8l0UYAulUI</guid>
+      <title>LIVE: Fixing The Native GCC, And Building Software Within The Native LFS System</title>
+      <link>https://youtube.com/watch?v=Z8l0UYAulUI</link>
+      <description>SUPPORT THE CHANNEL:&#xA;StreamLabs: https://streamlabs.com/ncommander&#xA;Patreon: https://www.patreon.com/ncommander&#xA;Ko-Fi: https://ko-fi.com/ncommander&#xA;&#xA;SOCIAL MEDIA:&#xA;Discord: https://discord.gg/V8esNah&#xA;Mastodon: https://social.restless.systems/@ncommander&#xA;Wiki: https://wiki.restless.systems&#xA;&#xA;Music from  @WhiteBatAudio  &#xA;Karl Casey @ White Bat Audio</description>
+      <pubDate>Mon, 19 May 2025 00:40:04 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/NCommander/Z8l0UYAulUI.mp4" length="2849119742" type="video/mp4"></enclosure>
+      <itunes:author>NCommander</itunes:author>
+      <itunes:subtitle>LIVE: Fixing The Native GCC, And Building Software Within The Native LFS System</itunes:subtitle>
+      <itunes:summary><![CDATA[SUPPORT THE CHANNEL:
+StreamLabs: https://streamlabs.com/ncommander
+Patreon: https://www.patreon.com/ncommander
+Ko-Fi: https://ko-fi.com/ncommander
+
+SOCIAL MEDIA:
+Discord: https://discord.gg/V8esNah
+Mastodon: https://social.restless.systems/@ncommander
+Wiki: https://wiki.restless.systems
+
+Music from  @WhiteBatAudio  
+Karl Casey @ White Bat Audio]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/Z8l0UYAulUI/default.jpg"></itunes:image>
+      <itunes:duration>10:27:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+  </channel>
+</rss>

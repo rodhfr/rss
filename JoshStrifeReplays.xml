@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Josh Strife Replays</title>
+    <link>https://youtube.com/channel/UCSUJ--dc-N8Xa4b4TekaUkQ</link>
+    <description>Archived twitch streams from &#39;Josh Strife Hayes&#39;.&#xA;&#xA;Missed a stream? not a problem, catch up here. Streams will be uploaded several days after they air on twitch.&#xA;&#xA;You can watch live at https://www.twitch.tv/joshstrifehayes&#xA;</description>
+    <category>TV &amp; Film</category>
+    <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 May 2025 20:18:00 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Feb 2022 11:16:15 +0000</pubDate>
+    <image>
+      <url>https://yt3.ggpht.com/n0cCMFCmU0YM9iUkq1KGcUvl3AWntbzAoOC_HZn9Vjtzb48Sz4UWGVpLFBjQQrKquVyXLArjm5I=s800-c-k-c0x00ffffff-no-rj</url>
+      <title>Josh Strife Replays</title>
+      <link>https://youtube.com/channel/UCSUJ--dc-N8Xa4b4TekaUkQ</link>
+    </image>
+    <itunes:author>Josh Strife Replays</itunes:author>
+    <itunes:subtitle>Josh Strife Replays</itunes:subtitle>
+    <itunes:summary><![CDATA[Archived twitch streams from 'Josh Strife Hayes'.
+
+Missed a stream? not a problem, catch up here. Streams will be uploaded several days after they air on twitch.
+
+You can watch live at https://www.twitch.tv/joshstrifehayes
+]]></itunes:summary>
+    <itunes:image href="https://yt3.ggpht.com/n0cCMFCmU0YM9iUkq1KGcUvl3AWntbzAoOC_HZn9Vjtzb48Sz4UWGVpLFBjQQrKquVyXLArjm5I=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="TV &amp; Film"></itunes:category>
+  </channel>
+</rss>

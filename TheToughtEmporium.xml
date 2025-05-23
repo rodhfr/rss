@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>The Thought Emporium</title>
+    <link>https://youtube.com/channel/UCV5vCi3jPJdURZwAOO_FNfQ</link>
+    <description>Science is a bottomless well of some of the most amazing things this universe has to offer. There is so much amazing science and engineering that gets done, but most often the only ones who get to experience it first hand are those in expensive labs in universities. This channel aims to explore as much of fields of science and engineering as possible by showing real experiments and research being done in a fun and accessible way. While the goal is to show that even very hard science can be done in a DIY way, some projects will use some of the fancier toys that while less accessible, opens a broader range of projects that can be done. We cover everything from genetic engineering and tissue culture, to nuclear physics, to machine engineering, to chemical synthesis and more.</description>
+    <category>TV &amp; Film</category>
+    <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 May 2025 20:18:07 +0000</lastBuildDate>
+    <pubDate>Tue, 11 May 2010 02:02:46 +0000</pubDate>
+    <image>
+      <url>https://yt3.ggpht.com/ytc/AIdro_lURlscMPbeZRZmwq9uKtGMePd8tskqPTb3jsdZ_H81CP0=s800-c-k-c0x00ffffff-no-rj</url>
+      <title>The Thought Emporium</title>
+      <link>https://youtube.com/channel/UCV5vCi3jPJdURZwAOO_FNfQ</link>
+    </image>
+    <itunes:author>The Thought Emporium</itunes:author>
+    <itunes:subtitle>The Thought Emporium</itunes:subtitle>
+    <itunes:summary><![CDATA[Science is a bottomless well of some of the most amazing things this universe has to offer. There is so much amazing science and engineering that gets done, but most often the only ones who get to experience it first hand are those in expensive labs in universities. This channel aims to explore as much of fields of science and engineering as possible by showing real experiments and research being done in a fun and accessible way. While the goal is to show that even very hard science can be done in a DIY way, some projects will use some of the fancier toys that while less accessible, opens a broader range of projects that can be done. We cover everything from genetic engineering and tissue culture, to nuclear physics, to machine engineering, to chemical synthesis and more.]]></itunes:summary>
+    <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_lURlscMPbeZRZmwq9uKtGMePd8tskqPTb3jsdZ_H81CP0=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>aWah0ipEllM</guid>
+      <title>Growing Penicillin from a SLAB of Mold</title>
+      <link>https://youtube.com/watch?v=aWah0ipEllM</link>
+      <description>Penicillin, the wonder drug that changed the world, is one of many drugs that are grown rather than synthesized from petroleum products. Penicillin gets it&#39;s name from the mold it&#39;s grown from, penicillium chrysogenum.</description>
+      <pubDate>Mon, 12 May 2025 17:24:33 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/TheToughtEmporium/aWah0ipEllM.mp4" length="22996729" type="video/mp4"></enclosure>
+      <itunes:author>The Thought Emporium</itunes:author>
+      <itunes:subtitle>Growing Penicillin from a SLAB of Mold</itunes:subtitle>
+      <itunes:summary><![CDATA[Penicillin, the wonder drug that changed the world, is one of many drugs that are grown rather than synthesized from petroleum products. Penicillin gets it's name from the mold it's grown from, penicillium chrysogenum.]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/aWah0ipEllM/default.jpg"></itunes:image>
+      <itunes:duration>1:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+  </channel>
+</rss>

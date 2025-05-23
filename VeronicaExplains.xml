@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Veronica Explains</title>
+    <link>https://youtube.com/channel/UCMiyV_Ib77XLpzHPQH_q0qQ</link>
+    <description>I&#39;m Veronica! I love Linux, old computer hardware, and explaining things.&#xA;&#xA;Some folks call me the Linux Mom, and that works for me. I&#39;m a sysadmin and COBOL lady who&#39;s posting fun content about cool things you can do with Linux, as well as some fun retro tech stuff I come across!</description>
+    <category>TV &amp; Film</category>
+    <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 May 2025 20:13:59 +0000</lastBuildDate>
+    <pubDate>Wed, 14 Jul 2021 16:54:17 +0000</pubDate>
+    <image>
+      <url>https://yt3.ggpht.com/qdieOL8FuJS5lPu9FPGBaGFTqlBfcvDgvB3HoIlqPigbxfej2XH0TSBEOsS57bY4yKZKF1VJgQ=s800-c-k-c0x00ffffff-no-rj</url>
+      <title>Veronica Explains</title>
+      <link>https://youtube.com/channel/UCMiyV_Ib77XLpzHPQH_q0qQ</link>
+    </image>
+    <itunes:author>Veronica Explains</itunes:author>
+    <itunes:subtitle>Veronica Explains</itunes:subtitle>
+    <itunes:summary><![CDATA[I'm Veronica! I love Linux, old computer hardware, and explaining things.
+
+Some folks call me the Linux Mom, and that works for me. I'm a sysadmin and COBOL lady who's posting fun content about cool things you can do with Linux, as well as some fun retro tech stuff I come across!]]></itunes:summary>
+    <itunes:image href="https://yt3.ggpht.com/qdieOL8FuJS5lPu9FPGBaGFTqlBfcvDgvB3HoIlqPigbxfej2XH0TSBEOsS57bY4yKZKF1VJgQ=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>MSV5nImeYJg</guid>
+      <title>45Drives hasn&#39;t sent me any hardware and I still think they&#39;re neat</title>
+      <link>https://youtube.com/watch?v=MSV5nImeYJg</link>
+      <description>Let&#39;s talk about 45Drives, why I like their open source Cockpit modules, as well as their tutorials and documentation about open source projects.&#xA;&#xA;I think it&#39;s rare to have a corporation care this much about open source. From my outsider view as someone who has never been sent anything from 45Drives, I think it&#39;s refreshing. And I want to talk about it!&#xA;&#xA;This video was not sponsored, 45Drives has not only (to date) not sent me any hardware, but we&#39;ve had no business dealings at all: no money changing hands, no free trips to see their factory, nothing like that. Again, this is as of filming: can&#39;t predict the future! :)&#xA;&#xA;Patrons and Ko-Fi members make Veronica Explains possible:&#xA;- https://patreon.com/VeronicaExplains&#xA;- https://ko-fi.com/VeronicaExplains&#xA;&#xA;Links referenced in the video:&#xA;- The 45Drives website: https://www.45drives.com/&#xA;- And @45Drives is on YouTube (it&#39;s a great channel).&#xA;- Their file sharing Cockpit module: https://github.com/45Drives/cockpit-file-sharing&#xA;- FTC disclosures for social media influencers: https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers&#xA;- The older of the two ZFS modules from 45Drives: https://github.com/45Drives/cockpit-zfs-manager&#xA;- And the newer one they&#39;re building from scratch: https://github.com/45Drives/cockpit-zfs&#xA;- Friend of the channel Tom gave me permission to share his clips here, go check out his channel if you&#39;re not already subscribed: @LAWRENCESYSTEMS &#xA;- My blog post where I go into a bit more detail about how to install these modules: https://vkc.sh/45drives-cockpit/&#xA;&#xA;Chapters:&#xA;0:00 45Drives hasn&#39;t sponsored me in any way... so far&#xA;3:00 What is Cockpit anyway?&#xA;4:54 Looking at two 45Drives modules for Cockpit&#xA;6:17 But... I thought you hated corporations?&#xA;8:29 Would I buy a 45Drives server? (probably)&#xA;&#xA;#homelab #linux #server</description>
+      <pubDate>Sat, 26 Apr 2025 14:43:58 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/VeronicaExplains/MSV5nImeYJg.mp4" length="111781296" type="video/mp4"></enclosure>
+      <itunes:author>Veronica Explains</itunes:author>
+      <itunes:subtitle>45Drives hasn&#39;t sent me any hardware and I still think they&#39;re neat</itunes:subtitle>
+      <itunes:summary><![CDATA[Let's talk about 45Drives, why I like their open source Cockpit modules, as well as their tutorials and documentation about open source projects.
+
+I think it's rare to have a corporation care this much about open source. From my outsider view as someone who has never been sent anything from 45Drives, I think it's refreshing. And I want to talk about it!
+
+This video was not sponsored, 45Drives has not only (to date) not sent me any hardware, but we've had no business dealings at all: no money changing hands, no free trips to see their factory, nothing like that. Again, this is as of filming: can't predict the future! :)
+
+Patrons and Ko-Fi members make Veronica Explains possible:
+- https://patreon.com/VeronicaExplains
+- https://ko-fi.com/VeronicaExplains
+
+Links referenced in the video:
+- The 45Drives website: https://www.45drives.com/
+- And @45Drives is on YouTube (it's a great channel).
+- Their file sharing Cockpit module: https://github.com/45Drives/cockpit-file-sharing
+- FTC disclosures for social media influencers: https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers
+- The older of the two ZFS modules from 45Drives: https://github.com/45Drives/cockpit-zfs-manager
+- And the newer one they're building from scratch: https://github.com/45Drives/cockpit-zfs
+- Friend of the channel Tom gave me permission to share his clips here, go check out his channel if you're not already subscribed: @LAWRENCESYSTEMS 
+- My blog post where I go into a bit more detail about how to install these modules: https://vkc.sh/45drives-cockpit/
+
+Chapters:
+0:00 45Drives hasn't sponsored me in any way... so far
+3:00 What is Cockpit anyway?
+4:54 Looking at two 45Drives modules for Cockpit
+6:17 But... I thought you hated corporations?
+8:29 Would I buy a 45Drives server? (probably)
+
+#homelab #linux #server]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/MSV5nImeYJg/default.jpg"></itunes:image>
+      <itunes:duration>10:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+  </channel>
+</rss>
