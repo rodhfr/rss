@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 May 2025 09:18:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 15:36:32 +0000</lastBuildDate>
     <pubDate>Sat, 06 Aug 2016 18:08:24 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/voL1BZtJ89vP15mHZfiy86BOZU4BEPiYA8zdLiPkGW_M_TcXefJ_2blJ95dojXVVZtNkVO3n5w=s800-c-k-c0x00ffffff-no-rj</url>
@@ -26,6 +26,26 @@ Os conflitos políticos e militares, processos revolucionários e lutas anti-imp
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
     <item>
+      <guid>nczTinlekMY</guid>
+      <title>Bananinha Conspira Livremente, Big Techs Querem o Brasil, Governo Sobre Com o IR e Sanções STF</title>
+      <link>https://youtube.com/watch?v=nczTinlekMY</link>
+      <description>O Globo/RJ Sanções contra os Ministros do STF.&#xA;Folha de São Paulo - Governo muda IOF.&#xA;The Intercept/SP - Data Centers querem a água do Brasil.&#xA;Revista Fórum/SP - Eduardo Bolsonaro ameaça o PT.&#xA;&#xA;🎙️ Novo na transmissão ou querendo melhorar? Confira o StreamYard e ganhe $10 de desconto! 😍 https://streamyard.com/pal/d/5146480383098880</description>
+      <pubDate>Fri, 23 May 2025 15:20:45 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/GuerraPatriotica/nczTinlekMY.mp3" length="19837989" type="audio/mpeg"></enclosure>
+      <itunes:author>Guerra Patriótica</itunes:author>
+      <itunes:subtitle>Bananinha Conspira Livremente, Big Techs Querem o Brasil, Governo Sobre Com o IR e Sanções STF</itunes:subtitle>
+      <itunes:summary><![CDATA[O Globo/RJ Sanções contra os Ministros do STF.
+Folha de São Paulo - Governo muda IOF.
+The Intercept/SP - Data Centers querem a água do Brasil.
+Revista Fórum/SP - Eduardo Bolsonaro ameaça o PT.
+
+🎙️ Novo na transmissão ou querendo melhorar? Confira o StreamYard e ganhe $10 de desconto! 😍 https://streamyard.com/pal/d/5146480383098880]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/nczTinlekMY/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>41:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+    <item>
       <guid>kQrV7slYwo4</guid>
       <title>Bozo Assistiu Rindo, Motta Manda a Real, Espiões Russos e Biodiesel Está Demorando</title>
       <link>https://youtube.com/watch?v=kQrV7slYwo4</link>
@@ -43,7 +63,7 @@ Zero Hora/RS - Fábrica de biodiesel.
       <itunes:image href="https://i.ytimg.com/vi/kQrV7slYwo4/maxresdefault.jpg"></itunes:image>
       <itunes:duration>36:52</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
   </channel>
 </rss>
