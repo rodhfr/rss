@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 May 2025 15:27:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 00:45:39 +0000</lastBuildDate>
     <pubDate>Thu, 22 Apr 2021 02:49:23 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_kjZ_ECPfN47kfF6MpygNUSlTDAVY0Hn82essAC1E1rsQ=s800-c-k-c0x00ffffff-no-rj</url>
@@ -20,5 +20,20 @@
     <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_kjZ_ECPfN47kfF6MpygNUSlTDAVY0Hn82essAC1E1rsQ=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>EsTv6ojasU0</guid>
+      <title>golf</title>
+      <link>https://youtube.com/watch?v=EsTv6ojasU0</link>
+      <description> </description>
+      <pubDate>Wed, 07 May 2025 03:16:47 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/CRDGaiden/EsTv6ojasU0.mp4" length="6540627898" type="video/mp4"></enclosure>
+      <itunes:author>Cathode Ray Dude Gaiden</itunes:author>
+      <itunes:subtitle>golf</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/EsTv6ojasU0/default.jpg"></itunes:image>
+      <itunes:duration>4:18:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
   </channel>
 </rss>
