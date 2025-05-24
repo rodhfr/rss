@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 May 2025 03:50:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 09:25:16 +0000</lastBuildDate>
     <pubDate>Sat, 06 Aug 2016 18:08:24 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/voL1BZtJ89vP15mHZfiy86BOZU4BEPiYA8zdLiPkGW_M_TcXefJ_2blJ95dojXVVZtNkVO3n5w=s800-c-k-c0x00ffffff-no-rj</url>
@@ -25,6 +25,24 @@ Os conflitos políticos e militares, processos revolucionários e lutas anti-imp
     <itunes:image href="https://yt3.ggpht.com/voL1BZtJ89vP15mHZfiy86BOZU4BEPiYA8zdLiPkGW_M_TcXefJ_2blJ95dojXVVZtNkVO3n5w=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>9AIpkXuHmxY</guid>
+      <title>Ucrânia Urgente</title>
+      <link>https://youtube.com/watch?v=9AIpkXuHmxY</link>
+      <description>Sem perspectiva de paz, a Ucrânia se prepara para a continuidade da guerra aumentando a suas operações de drones como armas de vingança.&#xA;Na condição e espectador, os Estados Unidos assiste o avanço russo de maneira passiva, enquanto a União Europeia ainda aposta na possibilidade de combalir a economia russa.&#xA;Campo de batalha, bastidores da diplomacia e ambiente político, hoje vamos atualizar os seguidores do canal sobre a Guerra da Ucrânia.&#xA;&#xA;🎙️ Novo na transmissão ou querendo melhorar? Confira o StreamYard e ganhe $10 de desconto! 😍 https://streamyard.com/pal/d/5146480383098880</description>
+      <pubDate>Fri, 23 May 2025 20:10:52 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/GuerraPatriotica/9AIpkXuHmxY.mp3" length="115711725" type="audio/mpeg"></enclosure>
+      <itunes:author>Guerra Patriótica</itunes:author>
+      <itunes:subtitle>Ucrânia Urgente</itunes:subtitle>
+      <itunes:summary><![CDATA[Sem perspectiva de paz, a Ucrânia se prepara para a continuidade da guerra aumentando a suas operações de drones como armas de vingança.
+Na condição e espectador, os Estados Unidos assiste o avanço russo de maneira passiva, enquanto a União Europeia ainda aposta na possibilidade de combalir a economia russa.
+Campo de batalha, bastidores da diplomacia e ambiente político, hoje vamos atualizar os seguidores do canal sobre a Guerra da Ucrânia.
+
+🎙️ Novo na transmissão ou querendo melhorar? Confira o StreamYard e ganhe $10 de desconto! 😍 https://streamyard.com/pal/d/5146480383098880]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/9AIpkXuHmxY/maxresdefault_live.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>nczTinlekMY</guid>
       <title>Bananinha Conspira Livremente, Big Techs Querem o Brasil, Governo Sobre Com o IR e Sanções STF</title>
@@ -44,26 +62,6 @@ Revista Fórum/SP - Eduardo Bolsonaro ameaça o PT.
       <itunes:duration>41:32</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>2</itunes:order>
-    </item>
-    <item>
-      <guid>kQrV7slYwo4</guid>
-      <title>Bozo Assistiu Rindo, Motta Manda a Real, Espiões Russos e Biodiesel Está Demorando</title>
-      <link>https://youtube.com/watch?v=kQrV7slYwo4</link>
-      <description>O Globo/RJ - Motta avisa que lei da anistia [e inconstitucional.&#xA;Estadão/SP - Como a Rússia transformou o Brasil em uma base de espiões.&#xA;Revista Fórum/SP - Bolsonaro ignorou o alerta de Cid.&#xA;Zero Hora/RS - Fábrica de biodiesel.&#xA;&#xA;🎙️ Novo na transmissão ou querendo melhorar? Confira o StreamYard e ganhe $10 de desconto! 😍 https://streamyard.com/pal/d/5146480383098880</description>
-      <pubDate>Thu, 22 May 2025 03:17:51 +0000</pubDate>
-      <enclosure url="https://feed.rodhfr.shop/GuerraPatriotica/kQrV7slYwo4.mp3" length="17093037" type="audio/mpeg"></enclosure>
-      <itunes:author>Guerra Patriótica</itunes:author>
-      <itunes:subtitle>Bozo Assistiu Rindo, Motta Manda a Real, Espiões Russos e Biodiesel Está Demorando</itunes:subtitle>
-      <itunes:summary><![CDATA[O Globo/RJ - Motta avisa que lei da anistia [e inconstitucional.
-Estadão/SP - Como a Rússia transformou o Brasil em uma base de espiões.
-Revista Fórum/SP - Bolsonaro ignorou o alerta de Cid.
-Zero Hora/RS - Fábrica de biodiesel.
-
-🎙️ Novo na transmissão ou querendo melhorar? Confira o StreamYard e ganhe $10 de desconto! 😍 https://streamyard.com/pal/d/5146480383098880]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/kQrV7slYwo4/maxresdefault.jpg"></itunes:image>
-      <itunes:duration>36:52</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
     </item>
   </channel>
 </rss>
