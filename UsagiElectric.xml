@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 May 2025 13:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 19:17:19 +0000</lastBuildDate>
     <pubDate>Wed, 28 Jun 2006 16:19:07 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_kWMFAwYC31RD7DDFfN_EPnf-eSiyUajXqyPYLqCbE_uNw=s800-c-k-c0x00ffffff-no-rj</url>
@@ -24,6 +24,60 @@ Usagi Electric covers one of my main passions, while my other main passion can b
     <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_kWMFAwYC31RD7DDFfN_EPnf-eSiyUajXqyPYLqCbE_uNw=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>kT3TMb9n26Q</guid>
+      <title>The Last UE1 Episode!</title>
+      <link>https://youtube.com/watch?v=kT3TMb9n26Q</link>
+      <description>It’s the end of an era. This is the final UE1 episode.&#xA;But, don’t worry, plenty is still broken, so let’s get to work hammering out all the little problems to get this thing up to 100% functional!&#xA;&#xA;Seriously though, thank you all so much for tagging along with me on this wild journey.&#xA;&#xA;If you want to play with the emulator, the source code is here:&#xA;https://github.com/Nakazoto/UEVTC/tree/main/UE1/Software/Emulator&#xA;There are some assembly programs here:&#xA;https://github.com/Nakazoto/UEVTC/tree/main/UE1/Software/Programs&#xA;&#xA;If you want to support the channel please hop over to Patreon:&#xA;https://www.patreon.com/usagielectric&#xA;&#xA;Also, we now have some epic shirts for sale!&#xA;https://my-store-11554688.creator-spring.com&#xA;&#xA;Come join us on Discord!&#xA;&#xA;Discord: https://discord.gg/p7UsfHD &#xA;&#xA;Intro Music adapted from:&#xA;Artist: The Runaway Five&#xA;Title: The Shinra Shuffle&#xA;https://ocremix.org/remix/OCR01847&#xA;&#xA;Thanks for watching!&#xA;&#xA;Chapters&#xA;0:00 Fibonacci works perfectly now!&#xA;0:55 But how?&#xA;3:29 How about that bell though?&#xA;6:44 Time to test the input switches and conditional branching&#xA;9:03 The worst calculator ever&#xA;11:41 Let’s test it on the emulator first&#xA;14:55 Will it work?&#xA;15:52 No.&#xA;19:50 Let’s try that again&#xA;20:54 The end…&#xA;22:17 Which means more homebrews!&#xA;23:07 This was the bunny video used on episode 1 of this series</description>
+      <pubDate>Sun, 25 May 2025 13:15:05 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/UsagiElectric/kT3TMb9n26Q.mp4" length="232640905" type="video/mp4"></enclosure>
+      <itunes:author>Usagi Electric</itunes:author>
+      <itunes:subtitle>The Last UE1 Episode!</itunes:subtitle>
+      <itunes:summary><![CDATA[It’s the end of an era. This is the final UE1 episode.
+But, don’t worry, plenty is still broken, so let’s get to work hammering out all the little problems to get this thing up to 100% functional!
+
+Seriously though, thank you all so much for tagging along with me on this wild journey.
+
+If you want to play with the emulator, the source code is here:
+https://github.com/Nakazoto/UEVTC/tree/main/UE1/Software/Emulator
+There are some assembly programs here:
+https://github.com/Nakazoto/UEVTC/tree/main/UE1/Software/Programs
+
+If you want to support the channel please hop over to Patreon:
+https://www.patreon.com/usagielectric
+
+Also, we now have some epic shirts for sale!
+https://my-store-11554688.creator-spring.com
+
+Come join us on Discord!
+
+Discord: https://discord.gg/p7UsfHD 
+
+Intro Music adapted from:
+Artist: The Runaway Five
+Title: The Shinra Shuffle
+https://ocremix.org/remix/OCR01847
+
+Thanks for watching!
+
+Chapters
+0:00 Fibonacci works perfectly now!
+0:55 But how?
+3:29 How about that bell though?
+6:44 Time to test the input switches and conditional branching
+9:03 The worst calculator ever
+11:41 Let’s test it on the emulator first
+14:55 Will it work?
+15:52 No.
+19:50 Let’s try that again
+20:54 The end…
+22:17 Which means more homebrews!
+23:07 This was the bunny video used on episode 1 of this series]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/kT3TMb9n26Q/default.jpg"></itunes:image>
+      <itunes:duration>23:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>EbWcgepRmY4</guid>
       <title>Rescuing a Rare version of BASIC with the Data General Nova!</title>
@@ -68,7 +122,7 @@ Chapters
       <itunes:image href="https://i.ytimg.com/vi/EbWcgepRmY4/default.jpg"></itunes:image>
       <itunes:duration>25:32</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
   </channel>
 </rss>
