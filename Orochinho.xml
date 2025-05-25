@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 May 2025 20:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 02:15:23 +0000</lastBuildDate>
     <pubDate>Mon, 16 Dec 2019 04:48:09 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_nPxYunxVjAMWe9ylwaYLp_ZOcgNByWxisMQxwGj3gtNbA=s800-c-k-c0x00ffffff-no-rj</url>
@@ -20,6 +20,34 @@
     <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_nPxYunxVjAMWe9ylwaYLp_ZOcgNByWxisMQxwGj3gtNbA=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>gO8-SG_lJ2w</guid>
+      <title>o ultimo a chegar é mulher do padre</title>
+      <link>https://youtube.com/watch?v=gO8-SG_lJ2w</link>
+      <description>LOJA: https://www.lolja.com.br/tio-orochi&#xA;&#xA;Minha Caixa Postal: &#xA;&#xA;Pedro Orochi&#xA;Caixa Postal 2527&#xA;Maringá - PR&#xA;CEP 87030-981&#xA;&#xA;insta: @orochipedro  &#xA;&#xA;Manikomio:  @Manikomioloko  &#xA;Canal de Jogo:  @piscagames24  &#xA;Canal &#34;Principal&#34;:  @OrochiJoga</description>
+      <pubDate>Sat, 24 May 2025 20:23:16 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/Orochinho/gO8-SG_lJ2w.mp4" length="188335329" type="video/mp4"></enclosure>
+      <itunes:author>orochidois</itunes:author>
+      <itunes:subtitle>o ultimo a chegar é mulher do padre</itunes:subtitle>
+      <itunes:summary><![CDATA[LOJA: https://www.lolja.com.br/tio-orochi
+
+Minha Caixa Postal: 
+
+Pedro Orochi
+Caixa Postal 2527
+Maringá - PR
+CEP 87030-981
+
+insta: @orochipedro  
+
+Manikomio:  @Manikomioloko  
+Canal de Jogo:  @piscagames24  
+Canal "Principal":  @OrochiJoga]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/gO8-SG_lJ2w/default.jpg"></itunes:image>
+      <itunes:duration>23:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>dom2wyPH5x8</guid>
       <title>dia de jogar papers please</title>
@@ -45,7 +73,7 @@ Canal de Jogo:  @piscagames24
 Canal "Principal":  @OrochiJoga]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/dom2wyPH5x8/default_live.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>c18ga1XAsZo</guid>
@@ -73,7 +101,7 @@ Canal "Principal":  @OrochiJoga]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/c18ga1XAsZo/default.jpg"></itunes:image>
       <itunes:duration>26:21</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
   </channel>
 </rss>
