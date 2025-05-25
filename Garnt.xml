@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 May 2025 13:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 19:12:17 +0000</lastBuildDate>
     <pubDate>Fri, 20 May 2011 12:17:36 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/RjrYwFX3-GdMQ5T7K_NWxKENv-GfH4vFhSeoJ3WF1huxZdd6ojrqTVZJxCu2pSYjO22MlQqWug=s800-c-k-c0x00ffffff-no-rj</url>
@@ -26,6 +26,31 @@ http://twitter.com/#!/GiggukAZ]]></itunes:summary>
     <itunes:image href="https://yt3.ggpht.com/RjrYwFX3-GdMQ5T7K_NWxKENv-GfH4vFhSeoJ3WF1huxZdd6ojrqTVZJxCu2pSYjO22MlQqWug=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>SDVD0C3CMlU</guid>
+      <title>Ranking THE BEST Spring 2025 Anime Openings</title>
+      <link>https://youtube.com/watch?v=SDVD0C3CMlU</link>
+      <description>This season&#39;s OPs went kinda hard huh?&#xA;&#xA;Edited by: Abhi&#xA;&#xA;Streamed Live on Twitch: http://twitch.tv/Gigguk&#xA;&#xA;Patreon: http://www.Patreon.com/Gigguk&#xA;--------------------------------------------------------------------------&#xA;Follow me on Twitter: http://twitter.com/GiggukAZ&#xA;Like me on Facebook: http://www.facebook.com/GiggukAZ&#xA;Follow me on Instagram: https://www.instagram.com/giggukaz/</description>
+      <pubDate>Sun, 25 May 2025 18:00:32 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/Garnt/SDVD0C3CMlU.mp4" length="455434185" type="video/mp4"></enclosure>
+      <itunes:author>Garnt</itunes:author>
+      <itunes:subtitle>Ranking THE BEST Spring 2025 Anime Openings</itunes:subtitle>
+      <itunes:summary><![CDATA[This season's OPs went kinda hard huh?
+
+Edited by: Abhi
+
+Streamed Live on Twitch: http://twitch.tv/Gigguk
+
+Patreon: http://www.Patreon.com/Gigguk
+--------------------------------------------------------------------------
+Follow me on Twitter: http://twitter.com/GiggukAZ
+Like me on Facebook: http://www.facebook.com/GiggukAZ
+Follow me on Instagram: https://www.instagram.com/giggukaz/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/SDVD0C3CMlU/default.jpg"></itunes:image>
+      <itunes:duration>28:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>ZoENVXebOfs</guid>
       <title>This Game is Absolute Cinema | GIRLS’ FRONTLINE 2: EXILIUM</title>
@@ -62,7 +87,7 @@ Follow me on Instagram: https://www.instagram.com/giggukaz/]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ZoENVXebOfs/default.jpg"></itunes:image>
       <itunes:duration>11:09</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
   </channel>
 </rss>
