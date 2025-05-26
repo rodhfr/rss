@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 May 2025 07:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 14:01:30 +0000</lastBuildDate>
     <pubDate>Wed, 14 Jul 2021 16:54:17 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/qdieOL8FuJS5lPu9FPGBaGFTqlBfcvDgvB3HoIlqPigbxfej2XH0TSBEOsS57bY4yKZKF1VJgQ=s800-c-k-c0x00ffffff-no-rj</url>
@@ -22,6 +22,47 @@ Some folks call me the Linux Mom, and that works for me. I'm a sysadmin and COBO
     <itunes:image href="https://yt3.ggpht.com/qdieOL8FuJS5lPu9FPGBaGFTqlBfcvDgvB3HoIlqPigbxfej2XH0TSBEOsS57bY4yKZKF1VJgQ=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>PEFqdqRr18E</guid>
+      <title>I make all my videos using Linux. Here&#39;s how.</title>
+      <link>https://youtube.com/watch?v=PEFqdqRr18E</link>
+      <description>The commenters often tell me I must be using a Mac or a Windows PC for video editing. Nope! I use three important pieces of free and open source software in order to make these videos, and luckily for me they work great on Linux!&#xA;&#xA;🎞️ Kdenlive for video editing: https://kdenlive.org/&#xA;📹 OBS for footage capture: https://obsproject.com&#xA;🖌️ Inkscape for thumbnails: https://inkscape.org/&#xA;&#xA;Other useful links from this video (not sponsored, no affiliate links):&#xA;- MLT Framework website: https://www.mltframework.org/&#xA;- C0pperdragon&#39;s Lumacode RGBtoHDMI page which helps you get started with modding a vintage PC for HDMI capture: https://github.com/c0pperdragon/LumaCode/wiki/RGBtoHDMI-Mono-&amp;-Lumacode&#xA;- RetroTink 5X: https://www.retrotink.com/shop/retrotink-5x-pro&#xA;- Martin Owens on Patreon: https://www.patreon.com/doctormo (Martin&#39;s also on YouTube @doctormo )&#xA;- My Fractal North case: https://www.microcenter.com/product/665641/fractal-design-north-mesh-atx-mid-tower-computer-case-black-walnut&#xA;- My Cam Link 4K: https://www.microcenter.com/product/629993/elgato-cam-link-4k-usb-30-external-video-capture-device&#xA;- My PCI-e Blackmagic HDMI capture card: https://www.microcenter.com/product/634800/blackmagic-design-decklink-mini-recorder-4k-bdlkminirec4k&#xA;&#xA;Lastly, these unsponsored videos are only possible thanks to supporters like you. $2/mo USD gets you access to the exclusive Discord/Matrix where I hang out every day with cool people.&#xA;- Patreon: https://patreon.com/VeronicaExplains&#xA;- Ko-Fi: https://ko-fi.com/VeronicaExplains&#xA;&#xA;Chapters:&#xA;0:00 Linux is my jam&#xA;1:01 Kdenlive is my editor&#xA;5:25 OBS is my capture tool&#xA;7:51 Inkscape is my thumbnail editor&#xA;9:31 My tools work with Linux just fine&#xA;&#xA;#linux #videoediting #opensource</description>
+      <pubDate>Mon, 26 May 2025 13:05:10 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/VeronicaExplains/PEFqdqRr18E.mp4" length="164513083" type="video/mp4"></enclosure>
+      <itunes:author>Veronica Explains</itunes:author>
+      <itunes:subtitle>I make all my videos using Linux. Here&#39;s how.</itunes:subtitle>
+      <itunes:summary><![CDATA[The commenters often tell me I must be using a Mac or a Windows PC for video editing. Nope! I use three important pieces of free and open source software in order to make these videos, and luckily for me they work great on Linux!
+
+🎞️ Kdenlive for video editing: https://kdenlive.org/
+📹 OBS for footage capture: https://obsproject.com
+🖌️ Inkscape for thumbnails: https://inkscape.org/
+
+Other useful links from this video (not sponsored, no affiliate links):
+- MLT Framework website: https://www.mltframework.org/
+- C0pperdragon's Lumacode RGBtoHDMI page which helps you get started with modding a vintage PC for HDMI capture: https://github.com/c0pperdragon/LumaCode/wiki/RGBtoHDMI-Mono-&-Lumacode
+- RetroTink 5X: https://www.retrotink.com/shop/retrotink-5x-pro
+- Martin Owens on Patreon: https://www.patreon.com/doctormo (Martin's also on YouTube @doctormo )
+- My Fractal North case: https://www.microcenter.com/product/665641/fractal-design-north-mesh-atx-mid-tower-computer-case-black-walnut
+- My Cam Link 4K: https://www.microcenter.com/product/629993/elgato-cam-link-4k-usb-30-external-video-capture-device
+- My PCI-e Blackmagic HDMI capture card: https://www.microcenter.com/product/634800/blackmagic-design-decklink-mini-recorder-4k-bdlkminirec4k
+
+Lastly, these unsponsored videos are only possible thanks to supporters like you. $2/mo USD gets you access to the exclusive Discord/Matrix where I hang out every day with cool people.
+- Patreon: https://patreon.com/VeronicaExplains
+- Ko-Fi: https://ko-fi.com/VeronicaExplains
+
+Chapters:
+0:00 Linux is my jam
+1:01 Kdenlive is my editor
+5:25 OBS is my capture tool
+7:51 Inkscape is my thumbnail editor
+9:31 My tools work with Linux just fine
+
+#linux #videoediting #opensource]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/PEFqdqRr18E/default.jpg"></itunes:image>
+      <itunes:duration>14:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>MSV5nImeYJg</guid>
       <title>45Drives hasn&#39;t sent me any hardware and I still think they&#39;re neat</title>
@@ -62,7 +103,7 @@ Chapters:
       <itunes:image href="https://i.ytimg.com/vi/MSV5nImeYJg/default.jpg"></itunes:image>
       <itunes:duration>10:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
   </channel>
 </rss>
