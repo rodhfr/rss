@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 May 2025 19:27:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 01:13:15 +0000</lastBuildDate>
     <pubDate>Sun, 22 Oct 2006 03:42:47 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_nh0ipg2nlS0ytudsD5Yhaa9W6Xt2XWzCK6EML0KeMhiA=s800-c-k-c0x00ffffff-no-rj</url>
@@ -25,6 +25,32 @@ Feel free to drop me a line on Discord or Mastodon if you've got an interesting 
     <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_nh0ipg2nlS0ytudsD5Yhaa9W6Xt2XWzCK6EML0KeMhiA=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>j9DolBYM4BM</guid>
+      <title>LIVE: Writing A Book - Getting The First 1000 Words Down ...</title>
+      <link>https://youtube.com/watch?v=j9DolBYM4BM</link>
+      <description>SUPPORT THE CHANNEL:&#xA;StreamLabs: https://streamlabs.com/ncommander&#xA;Patreon: https://www.patreon.com/ncommander&#xA;Ko-Fi: https://ko-fi.com/ncommander&#xA;&#xA;SOCIAL MEDIA:&#xA;Discord: https://discord.gg/V8esNah&#xA;Mastodon: https://social.restless.systems/@ncommander&#xA;Wiki: https://wiki.restless.systems&#xA;&#xA;Music from  @WhiteBatAudio  &#xA;Karl Casey @ White Bat Audio</description>
+      <pubDate>Mon, 26 May 2025 12:38:56 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/NCommander/j9DolBYM4BM.mp4" length="553292397" type="video/mp4"></enclosure>
+      <itunes:author>NCommander</itunes:author>
+      <itunes:subtitle>LIVE: Writing A Book - Getting The First 1000 Words Down ...</itunes:subtitle>
+      <itunes:summary><![CDATA[SUPPORT THE CHANNEL:
+StreamLabs: https://streamlabs.com/ncommander
+Patreon: https://www.patreon.com/ncommander
+Ko-Fi: https://ko-fi.com/ncommander
+
+SOCIAL MEDIA:
+Discord: https://discord.gg/V8esNah
+Mastodon: https://social.restless.systems/@ncommander
+Wiki: https://wiki.restless.systems
+
+Music from  @WhiteBatAudio  
+Karl Casey @ White Bat Audio]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/j9DolBYM4BM/default_live.jpg"></itunes:image>
+      <itunes:duration>3:15:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>jP-iiBJSYPA</guid>
       <title>LIVE: Trying To Decode CW Transmissions on 20m - Amateur Radio</title>
