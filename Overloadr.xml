@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 13:10:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 19:12:18 +0000</lastBuildDate>
     <pubDate>Thu, 15 May 2014 19:36:34 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_kcgqKfncJyLi4vmXp42UCx8ro-uac9hmxacBE8WV9lvw=s800-c-k-c0x00ffffff-no-rj</url>
@@ -23,6 +23,20 @@ Conheça nossa campanha de financiamento coletivo: https://www.overloadr.com.br/
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
     <item>
+      <guid>2ZxdVGMtGC0</guid>
+      <title>O início de Pipistrello and the Cursed Yoyo</title>
+      <link>https://youtube.com/watch?v=2ZxdVGMtGC0</link>
+      <description> </description>
+      <pubDate>Wed, 28 May 2025 15:17:40 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/Overloadr/2ZxdVGMtGC0.mp3" length="1417795" type="audio/mpeg"></enclosure>
+      <itunes:author>Overloadr</itunes:author>
+      <itunes:subtitle>O início de Pipistrello and the Cursed Yoyo</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/2ZxdVGMtGC0/hqdefault_live.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+    <item>
       <guid>L6RS8OpKUxE</guid>
       <title>Será que Zexion pode agachar</title>
       <link>https://youtube.com/watch?v=L6RS8OpKUxE</link>
@@ -35,7 +49,7 @@ Conheça nossa campanha de financiamento coletivo: https://www.overloadr.com.br/
       <itunes:image href="https://i.ytimg.com/vi/L6RS8OpKUxE/hqdefault.jpg"></itunes:image>
       <itunes:duration>2:58:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>UZ-9UcS1X_U</guid>
@@ -49,7 +63,7 @@ Conheça nossa campanha de financiamento coletivo: https://www.overloadr.com.br/
       <itunes:summary></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/UZ-9UcS1X_U/maxresdefault_live.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>MQAjN7wBt6E</guid>
@@ -78,7 +92,7 @@ Assuntos abordados:
       <itunes:image href="https://i.ytimg.com/vi/MQAjN7wBt6E/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:41:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
   </channel>
 </rss>
