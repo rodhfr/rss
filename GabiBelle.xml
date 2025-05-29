@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 14:38:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 19:29:27 +0000</lastBuildDate>
     <pubDate>Mon, 23 Apr 2018 19:34:43 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/atlxQEfh0-6MEfT5kpebYSXg7gEQ3G2JkIscSojTteBiDmfGiF0Bi-iv-uEWQAmEAwMuinZ-zQ=s800-c-k-c0x00ffffff-no-rj</url>
@@ -23,6 +23,56 @@ mgmt: gabibelle@night.co
     <itunes:image href="https://yt3.ggpht.com/atlxQEfh0-6MEfT5kpebYSXg7gEQ3G2JkIscSojTteBiDmfGiF0Bi-iv-uEWQAmEAwMuinZ-zQ=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>0x5trJGAsPI</guid>
+      <title>This TikTok Show is so Dumb</title>
+      <link>https://youtube.com/watch?v=0x5trJGAsPI</link>
+      <description>Thank you to Bombas for sponsoring this video! Head to https://bombas.com/gabi and use code gabi20 at checkout for 20% off your first purchase.&#xA;&#xA;merch! https://gabibelle.com/&#xA;&#xA;Edited by the amazing @BradenSwope and https://www.instagram.com/grahamcareyyt/&#xA;thank u guys so much&#xA;&#xA;&#xA;━SOCIALS━&#xA;twitch ➭ https://www.twitch.tv/gabistreams &#xA;instagram ➭ https://www.instagram.com/itsgabibelle&#xA;twitter ➭ https://www.twitter.com/itsgabibelle&#xA;tiktok ➭ https://www.tiktok.com/@itsgabibelle&#xA;second channel ➭ https://www.youtube.com/channel/UC4PlaGokmSqbKBdYObGLceQ &#xA;&#xA;━COMMUNITY━&#xA;discord server ➭ https://discord.gg/VA2TYeK&#xA;patreon ➭ https://www.patreon.com/gabibelle&#xA;&#xA;━MUSIC━&#xA;spotify ➭ https://open.spotify.com/artist/35XGyNw5Q7bvcF8BWWXbom?si=2dd4926b4d404bc1&#xA;music channel ➭ https://www.youtube.com/channel/UC_ZZxADAhDQmOMe0fDA_K_Q &#xA;&#xA;━BUSINESS━&#xA;please email gabibelle@night.co&#xA;&#xA;━CHAPTERS━&#xA;00:00 good luck have fun&#xA;04:55 awesome show&#xA;07:22 this date....guys&#xA;09:22 you do... esports?&#xA;15:00 you should subscribe, not like some basement dwelling internet troll&#xA;&#xA;&#xA;&#xA;tags: #gabibelle #tiktok</description>
+      <pubDate>Thu, 29 May 2025 16:20:38 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/GabiBelle/0x5trJGAsPI.mp4" length="249240373" type="video/mp4"></enclosure>
+      <itunes:author>gabi belle</itunes:author>
+      <itunes:subtitle>This TikTok Show is so Dumb</itunes:subtitle>
+      <itunes:summary><![CDATA[Thank you to Bombas for sponsoring this video! Head to https://bombas.com/gabi and use code gabi20 at checkout for 20% off your first purchase.
+
+merch! https://gabibelle.com/
+
+Edited by the amazing @BradenSwope and https://www.instagram.com/grahamcareyyt/
+thank u guys so much
+
+
+━SOCIALS━
+twitch ➭ https://www.twitch.tv/gabistreams 
+instagram ➭ https://www.instagram.com/itsgabibelle
+twitter ➭ https://www.twitter.com/itsgabibelle
+tiktok ➭ https://www.tiktok.com/@itsgabibelle
+second channel ➭ https://www.youtube.com/channel/UC4PlaGokmSqbKBdYObGLceQ 
+
+━COMMUNITY━
+discord server ➭ https://discord.gg/VA2TYeK
+patreon ➭ https://www.patreon.com/gabibelle
+
+━MUSIC━
+spotify ➭ https://open.spotify.com/artist/35XGyNw5Q7bvcF8BWWXbom?si=2dd4926b4d404bc1
+music channel ➭ https://www.youtube.com/channel/UC_ZZxADAhDQmOMe0fDA_K_Q 
+
+━BUSINESS━
+please email gabibelle@night.co
+
+━CHAPTERS━
+00:00 good luck have fun
+04:55 awesome show
+07:22 this date....guys
+09:22 you do... esports?
+15:00 you should subscribe, not like some basement dwelling internet troll
+
+
+
+tags: #gabibelle #tiktok]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/0x5trJGAsPI/default.jpg"></itunes:image>
+      <itunes:duration>17:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>Kob3MMEVgJM</guid>
       <title>TikTok &#34;Shows&#34; Are Getting Worse (with Chad Chad)</title>
@@ -75,7 +125,7 @@ tags: #]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Kob3MMEVgJM/default.jpg"></itunes:image>
       <itunes:duration>29:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
   </channel>
 </rss>
