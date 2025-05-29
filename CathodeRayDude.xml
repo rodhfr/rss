@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 May 2025 19:12:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 01:11:09 +0000</lastBuildDate>
     <pubDate>Tue, 28 Mar 2017 09:02:30 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/73q6wlfo5-5fsP8pMwQ2adONkm3OyQFGvS5FP0Buzhx7TfGE2pw8cOLNbD_-aeL_seobeyjwWzM=s800-c-k-c0x00ffffff-no-rj</url>
@@ -25,6 +25,42 @@ On my side channel (below) I sometimes upload smaller clips, and I do streams on
     <itunes:image href="https://yt3.ggpht.com/73q6wlfo5-5fsP8pMwQ2adONkm3OyQFGvS5FP0Buzhx7TfGE2pw8cOLNbD_-aeL_seobeyjwWzM=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>XHGKKdyU2bE</guid>
+      <title>Xoftware: Unix apps on Windows</title>
+      <link>https://youtube.com/watch?v=XHGKKdyU2bE</link>
+      <description>It&#39;s amazing how hard it is to make a software review interesting. Good luck!&#xA;&#xA;Support me on Patreon: https://www.patreon.com/cathoderaydude&#xA;Tip me: https://ko-fi.com/cathoderaydude&#xA;&#xA;Chapters:&#xA;00:00:00 Intro&#xA;00:01:37 History of X-Windows&#xA;00:11:50 Netmanage and Chameleon&#xA;00:16:47 Conventional X&#xA;00:23:47 Basic X functionality&#xA;00:29:53 Remote launchers&#xA;00:34:07 NFS sharing&#xA;00:35:27 Keyboard/mouse settings&#xA;00:38:00 Multi window mode&#xA;00:43:50 Single window mode&#xA;00:45:58 Motif tangent&#xA;00:49:18 Single window mode part 2&#xA;00:50:40 X Display Manager&#xA;00:58:09 Color depth issues&#xA;01:02:18 Compatibility issues&#xA;01:06:57 Outro</description>
+      <pubDate>Wed, 28 May 2025 19:35:34 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/CathodeRayDude/XHGKKdyU2bE.mp4" length="511342117" type="video/mp4"></enclosure>
+      <itunes:author>Cathode Ray Dude - CRD</itunes:author>
+      <itunes:subtitle>Xoftware: Unix apps on Windows</itunes:subtitle>
+      <itunes:summary><![CDATA[It's amazing how hard it is to make a software review interesting. Good luck!
+
+Support me on Patreon: https://www.patreon.com/cathoderaydude
+Tip me: https://ko-fi.com/cathoderaydude
+
+Chapters:
+00:00:00 Intro
+00:01:37 History of X-Windows
+00:11:50 Netmanage and Chameleon
+00:16:47 Conventional X
+00:23:47 Basic X functionality
+00:29:53 Remote launchers
+00:34:07 NFS sharing
+00:35:27 Keyboard/mouse settings
+00:38:00 Multi window mode
+00:43:50 Single window mode
+00:45:58 Motif tangent
+00:49:18 Single window mode part 2
+00:50:40 X Display Manager
+00:58:09 Color depth issues
+01:02:18 Compatibility issues
+01:06:57 Outro]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/XHGKKdyU2bE/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>1:08:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>MOjbpGsN1zg</guid>
       <title>Quick Start, Ep 8: A Trio Of Trios</title>
@@ -56,7 +92,7 @@ Chapters:
       <itunes:image href="https://i.ytimg.com/vi/MOjbpGsN1zg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>1:06:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
   </channel>
 </rss>
