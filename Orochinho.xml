@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 07:37:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 14:39:06 +0000</lastBuildDate>
     <pubDate>Mon, 16 Dec 2019 04:48:09 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_nPxYunxVjAMWe9ylwaYLp_ZOcgNByWxisMQxwGj3gtNbA=s800-c-k-c0x00ffffff-no-rj</url>
@@ -46,7 +46,7 @@ Canal "Principal":  @OrochiJoga]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/7PL0WEZcSTI/default.jpg"></itunes:image>
       <itunes:duration>3:04:52</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>U1gse4VJ-LA</guid>
@@ -74,7 +74,7 @@ Canal "Principal":  @OrochiJoga]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/U1gse4VJ-LA/default.jpg"></itunes:image>
       <itunes:duration>15:17</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>jDhAkDbon90</guid>
@@ -102,7 +102,7 @@ Canal "Principal":  @OrochiJoga]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/jDhAkDbon90/default.jpg"></itunes:image>
       <itunes:duration>21:21</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>PtqOpb0vKIg</guid>
@@ -129,7 +129,7 @@ Canal de Jogo:  @piscagames24
 Canal "Principal":  @OrochiJoga]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/PtqOpb0vKIg/default_live.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
   </channel>
 </rss>
