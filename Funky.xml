@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 14:38:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 19:13:55 +0000</lastBuildDate>
     <pubDate>Tue, 05 Jul 2011 21:51:51 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_mPQNjEjSY1qUziqUrjyJQww4Xr8tAVV_2zngc1U7RXHxRa=s800-c-k-c0x00ffffff-no-rj</url>
@@ -46,7 +46,7 @@ Canais oficiais:
 Contato comercial: funky@vandep.ag]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/AKoat7eryAg/default_live.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>OiYq1w5y7ug</guid>
@@ -66,7 +66,7 @@ Canais oficiais:
 Contato comercial: funky@vandep.ag]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/OiYq1w5y7ug/default_live.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>R1QCLOYfWdw</guid>
@@ -86,7 +86,7 @@ Canais oficiais:
 Contato comercial: funky@vandep.ag]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/R1QCLOYfWdw/default_live.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>Ei-bLOOIeWY</guid>
@@ -106,7 +106,7 @@ Canais oficiais:
 Contato comercial: funky@vandep.ag]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Ei-bLOOIeWY/default_live.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
   </channel>
 </rss>
