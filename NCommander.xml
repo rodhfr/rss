@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 07:17:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 14:27:56 +0000</lastBuildDate>
     <pubDate>Sun, 22 Oct 2006 03:42:47 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_nh0ipg2nlS0ytudsD5Yhaa9W6Xt2XWzCK6EML0KeMhiA=s800-c-k-c0x00ffffff-no-rj</url>
@@ -49,7 +49,7 @@ Karl Casey @ White Bat Audio]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/NgnbqGlXxFM/default.jpg"></itunes:image>
       <itunes:duration>4:07:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>j9DolBYM4BM</guid>
@@ -75,7 +75,7 @@ Karl Casey @ White Bat Audio]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/j9DolBYM4BM/default_live.jpg"></itunes:image>
       <itunes:duration>3:15:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>jP-iiBJSYPA</guid>
@@ -101,7 +101,7 @@ Karl Casey @ White Bat Audio]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/jP-iiBJSYPA/default_live.jpg"></itunes:image>
       <itunes:duration>2:15:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
+      <itunes:order>4</itunes:order>
     </item>
     <item>
       <guid>Z8l0UYAulUI</guid>
@@ -127,7 +127,7 @@ Karl Casey @ White Bat Audio]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Z8l0UYAulUI/default.jpg"></itunes:image>
       <itunes:duration>10:27:01</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item>
   </channel>
 </rss>
