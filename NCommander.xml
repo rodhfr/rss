@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 19:28:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 02:21:57 +0000</lastBuildDate>
     <pubDate>Sun, 22 Oct 2006 03:42:47 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_nh0ipg2nlS0ytudsD5Yhaa9W6Xt2XWzCK6EML0KeMhiA=s800-c-k-c0x00ffffff-no-rj</url>
@@ -25,6 +25,32 @@ Feel free to drop me a line on Discord or Mastodon if you've got an interesting 
     <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_nh0ipg2nlS0ytudsD5Yhaa9W6Xt2XWzCK6EML0KeMhiA=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>20TO9Pm90Yw</guid>
+      <title>LIVE: Trying Packet Radio Over HF Amateur Radio (Partial Success)</title>
+      <link>https://youtube.com/watch?v=20TO9Pm90Yw</link>
+      <description>SUPPORT THE CHANNEL:&#xA;StreamLabs: https://streamlabs.com/ncommander&#xA;Patreon: https://www.patreon.com/ncommander&#xA;Ko-Fi: https://ko-fi.com/ncommander&#xA;&#xA;SOCIAL MEDIA:&#xA;Discord: https://discord.gg/V8esNah&#xA;Mastodon: https://social.restless.systems/@ncommander&#xA;Wiki: https://wiki.restless.systems&#xA;&#xA;Music from  @WhiteBatAudio  &#xA;Karl Casey @ White Bat Audio</description>
+      <pubDate>Thu, 29 May 2025 12:19:53 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/NCommander/20TO9Pm90Yw.mp4" length="129274724" type="video/mp4"></enclosure>
+      <itunes:author>NCommander</itunes:author>
+      <itunes:subtitle>LIVE: Trying Packet Radio Over HF Amateur Radio (Partial Success)</itunes:subtitle>
+      <itunes:summary><![CDATA[SUPPORT THE CHANNEL:
+StreamLabs: https://streamlabs.com/ncommander
+Patreon: https://www.patreon.com/ncommander
+Ko-Fi: https://ko-fi.com/ncommander
+
+SOCIAL MEDIA:
+Discord: https://discord.gg/V8esNah
+Mastodon: https://social.restless.systems/@ncommander
+Wiki: https://wiki.restless.systems
+
+Music from  @WhiteBatAudio  
+Karl Casey @ White Bat Audio]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/20TO9Pm90Yw/default_live.jpg"></itunes:image>
+      <itunes:duration>1:52:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>NgnbqGlXxFM</guid>
       <title>LIVE: Book Writing - 2,500 Words Written, Goal: 3,500</title>
@@ -102,32 +128,6 @@ Karl Casey @ White Bat Audio]]></itunes:summary>
       <itunes:duration>2:15:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>4</itunes:order>
-    </item>
-    <item>
-      <guid>Z8l0UYAulUI</guid>
-      <title>LIVE: Fixing The Native GCC, And Building Software Within The Native LFS System</title>
-      <link>https://youtube.com/watch?v=Z8l0UYAulUI</link>
-      <description>SUPPORT THE CHANNEL:&#xA;StreamLabs: https://streamlabs.com/ncommander&#xA;Patreon: https://www.patreon.com/ncommander&#xA;Ko-Fi: https://ko-fi.com/ncommander&#xA;&#xA;SOCIAL MEDIA:&#xA;Discord: https://discord.gg/V8esNah&#xA;Mastodon: https://social.restless.systems/@ncommander&#xA;Wiki: https://wiki.restless.systems&#xA;&#xA;Music from  @WhiteBatAudio  &#xA;Karl Casey @ White Bat Audio</description>
-      <pubDate>Mon, 19 May 2025 00:40:04 +0000</pubDate>
-      <enclosure url="https://feed.rodhfr.shop/NCommander/Z8l0UYAulUI.mp4" length="2849119742" type="video/mp4"></enclosure>
-      <itunes:author>NCommander</itunes:author>
-      <itunes:subtitle>LIVE: Fixing The Native GCC, And Building Software Within The Native LFS System</itunes:subtitle>
-      <itunes:summary><![CDATA[SUPPORT THE CHANNEL:
-StreamLabs: https://streamlabs.com/ncommander
-Patreon: https://www.patreon.com/ncommander
-Ko-Fi: https://ko-fi.com/ncommander
-
-SOCIAL MEDIA:
-Discord: https://discord.gg/V8esNah
-Mastodon: https://social.restless.systems/@ncommander
-Wiki: https://wiki.restless.systems
-
-Music from  @WhiteBatAudio  
-Karl Casey @ White Bat Audio]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/Z8l0UYAulUI/default.jpg"></itunes:image>
-      <itunes:duration>10:27:01</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
     </item>
   </channel>
 </rss>
