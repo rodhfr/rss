@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 May 2025 15:18:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 19:27:15 +0000</lastBuildDate>
     <pubDate>Tue, 03 Jun 2008 19:01:37 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_kgp7m4vVqW0e0pN7R1dyltUTttrU48XTyoXkIJLrPojEA=s800-c-k-c0x00ffffff-no-rj</url>
@@ -23,6 +23,25 @@ https://stevem.gimmeswag.com
     <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_kgp7m4vVqW0e0pN7R1dyltUTttrU48XTyoXkIJLrPojEA=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>pJRiC-zG_84</guid>
+      <title>How Patlabor SAVED mecha #anime</title>
+      <link>https://youtube.com/watch?v=pJRiC-zG_84</link>
+      <description>The origins of Mobile Police Patlabor&#xA;Follow me on Twitter for Updates on Videos- https://twitter.com/the_stevem&#xA;SUPPORT ME HERE- https://www.patreon.com/stevemmmmm&#xA;AND HERE - paypal.me/stevemmmmm&#xA;All Sources In the Pinned Comments</description>
+      <pubDate>Fri, 30 May 2025 15:54:02 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/STEVEM/pJRiC-zG_84.mp4" length="25215455" type="video/mp4"></enclosure>
+      <itunes:author>STEVEM</itunes:author>
+      <itunes:subtitle>How Patlabor SAVED mecha #anime</itunes:subtitle>
+      <itunes:summary><![CDATA[The origins of Mobile Police Patlabor
+Follow me on Twitter for Updates on Videos- https://twitter.com/the_stevem
+SUPPORT ME HERE- https://www.patreon.com/stevemmmmm
+AND HERE - paypal.me/stevemmmmm
+All Sources In the Pinned Comments]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/pJRiC-zG_84/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>1:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>JBfv-GfcRiY</guid>
       <title>Patlabor : A Complete Deep Dive</title>
@@ -55,7 +74,7 @@ Corrections:
       <itunes:image href="https://i.ytimg.com/vi/JBfv-GfcRiY/maxresdefault.jpg"></itunes:image>
       <itunes:duration>56:01</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
   </channel>
 </rss>
