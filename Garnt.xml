@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 May 2025 19:26:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 04:27:26 +0000</lastBuildDate>
     <pubDate>Fri, 20 May 2011 12:17:36 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/RjrYwFX3-GdMQ5T7K_NWxKENv-GfH4vFhSeoJ3WF1huxZdd6ojrqTVZJxCu2pSYjO22MlQqWug=s800-c-k-c0x00ffffff-no-rj</url>
@@ -26,6 +26,31 @@ http://twitter.com/#!/GiggukAZ]]></itunes:summary>
     <itunes:image href="https://yt3.ggpht.com/RjrYwFX3-GdMQ5T7K_NWxKENv-GfH4vFhSeoJ3WF1huxZdd6ojrqTVZJxCu2pSYjO22MlQqWug=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>Ii5McEQ0sMw</guid>
+      <title>We Need To Talk About The Anime Awards...</title>
+      <link>https://youtube.com/watch?v=Ii5McEQ0sMw</link>
+      <description>Original VOD: https://www.youtube.com/watch?v=6Eu1PZ0bAJw&#xA;&#xA;Edited By: Abhi&#xA;&#xA;Streamed Live on Twitch: http://twitch.tv/Gigguk&#xA;&#xA;Patreon: http://www.Patreon.com/Gigguk&#xA;--------------------------------------------------------------------------&#xA;Follow me on Twitter: http://twitter.com/GiggukAZ&#xA;Like me on Facebook: http://www.facebook.com/GiggukAZ&#xA;Follow me on Instagram: https://www.instagram.com/giggukaz/</description>
+      <pubDate>Fri, 30 May 2025 20:00:25 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/Garnt/Ii5McEQ0sMw.mp4" length="381049968" type="video/mp4"></enclosure>
+      <itunes:author>Garnt</itunes:author>
+      <itunes:subtitle>We Need To Talk About The Anime Awards...</itunes:subtitle>
+      <itunes:summary><![CDATA[Original VOD: https://www.youtube.com/watch?v=6Eu1PZ0bAJw
+
+Edited By: Abhi
+
+Streamed Live on Twitch: http://twitch.tv/Gigguk
+
+Patreon: http://www.Patreon.com/Gigguk
+--------------------------------------------------------------------------
+Follow me on Twitter: http://twitter.com/GiggukAZ
+Like me on Facebook: http://www.facebook.com/GiggukAZ
+Follow me on Instagram: https://www.instagram.com/giggukaz/]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/Ii5McEQ0sMw/default.jpg"></itunes:image>
+      <itunes:duration>22:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>SDVD0C3CMlU</guid>
       <title>Ranking THE BEST Spring 2025 Anime Openings</title>
@@ -49,7 +74,7 @@ Follow me on Instagram: https://www.instagram.com/giggukaz/]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/SDVD0C3CMlU/default.jpg"></itunes:image>
       <itunes:duration>28:23</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>ZoENVXebOfs</guid>
@@ -87,7 +112,7 @@ Follow me on Instagram: https://www.instagram.com/giggukaz/]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/ZoENVXebOfs/default.jpg"></itunes:image>
       <itunes:duration>11:09</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
   </channel>
 </rss>
