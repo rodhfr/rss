@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 May 2025 13:19:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 19:50:15 +0000</lastBuildDate>
     <pubDate>Sat, 13 Jul 2019 19:34:39 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/BdIiI8Z7-_NSNfRPTgVnjt-t8WjVnRO2wrb0vX8lSA-Qe1b_dmK4NJV1F2kbrQhOlw_noMDj_w=s800-c-k-c0x00ffffff-no-rj</url>
@@ -20,6 +20,35 @@
     <itunes:image href="https://yt3.ggpht.com/BdIiI8Z7-_NSNfRPTgVnjt-t8WjVnRO2wrb0vX8lSA-Qe1b_dmK4NJV1F2kbrQhOlw_noMDj_w=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>5227Asd82Ow</guid>
+      <title>Streamer University: A Negrospective</title>
+      <link>https://youtube.com/watch?v=5227Asd82Ow</link>
+      <description>WATCH ON TWITCH: https://www.twitch.tv/foreignfridays&#xA;Full Episodes, Private Discord, etc: https://www.patreon.com/Foreignmaninaforeignland&#xA;&#xA;Main Channel  https://www.youtube.com/@UC1qBXNO9sM4xV0wKC0_SlYQ&#xA;Full Livestreams, Discord &amp; More: https://www.patreon.com/Foreignmaninaforeignland&#xA;Exclusive Content: https://nebula.tv/foreignman&#xA;Live Show Clips: https://www.youtube.com/@UCcPjAdaZfLWXr5RkoaMDetQ &#xA;Music Channel  https://www.youtube.com/@UCaGBswWwEronZAu03-XkiTA &#xA;Gym Vlogs  https://www.youtube.com/@UCIDSXRWrzospVrF3TbU-yFQ  &#xA;Gaming  https://www.youtube.com/@UC4tIpbJjoYjPJf44docCWCw  &#xA;https://bsky.app/profile/foreignman242.bsky.social&#xA;X: https://x.com/foreignman242&#xA;TikTok: https://www.tiktok.com/@foreignmaninaforeignland&#xA;IG: https://www.instagram.com/bigbawdyforeign&#xA;Website: https://ransfordjames.com</description>
+      <pubDate>Sat, 31 May 2025 16:27:28 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/ForeignFridays/5227Asd82Ow.mp4" length="496797597" type="video/mp4"></enclosure>
+      <itunes:author>Foreign Fridays</itunes:author>
+      <itunes:subtitle>Streamer University: A Negrospective</itunes:subtitle>
+      <itunes:summary><![CDATA[WATCH ON TWITCH: https://www.twitch.tv/foreignfridays
+Full Episodes, Private Discord, etc: https://www.patreon.com/Foreignmaninaforeignland
+
+Main Channel  https://www.youtube.com/@UC1qBXNO9sM4xV0wKC0_SlYQ
+Full Livestreams, Discord & More: https://www.patreon.com/Foreignmaninaforeignland
+Exclusive Content: https://nebula.tv/foreignman
+Live Show Clips: https://www.youtube.com/@UCcPjAdaZfLWXr5RkoaMDetQ 
+Music Channel  https://www.youtube.com/@UCaGBswWwEronZAu03-XkiTA 
+Gym Vlogs  https://www.youtube.com/@UCIDSXRWrzospVrF3TbU-yFQ  
+Gaming  https://www.youtube.com/@UC4tIpbJjoYjPJf44docCWCw  
+https://bsky.app/profile/foreignman242.bsky.social
+X: https://x.com/foreignman242
+TikTok: https://www.tiktok.com/@foreignmaninaforeignland
+IG: https://www.instagram.com/bigbawdyforeign
+Website: https://ransfordjames.com]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/5227Asd82Ow/default.jpg"></itunes:image>
+      <itunes:duration>38:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>fq5_Adz0g-0</guid>
       <title>This is Self Harm</title>
@@ -47,7 +76,7 @@ Website: https://ransfordjames.com]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/fq5_Adz0g-0/default.jpg"></itunes:image>
       <itunes:duration>19:58</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>TXYRFvILnzQ</guid>
@@ -77,7 +106,7 @@ Website: https://ransfordjames.com]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/TXYRFvILnzQ/default.jpg"></itunes:image>
       <itunes:duration>45:48</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
   </channel>
 </rss>
