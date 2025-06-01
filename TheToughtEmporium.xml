@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 May 2025 13:17:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 19:49:52 +0000</lastBuildDate>
     <pubDate>Tue, 11 May 2010 02:02:46 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_lURlscMPbeZRZmwq9uKtGMePd8tskqPTb3jsdZ_H81CP0=s800-c-k-c0x00ffffff-no-rj</url>
@@ -21,6 +21,21 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
     <item>
+      <guid>oXDMZMPCIxM</guid>
+      <title>This bacteria can withstand a nuclear reactor! ☢️</title>
+      <link>https://youtube.com/watch?v=oXDMZMPCIxM</link>
+      <description>Deinococcus radiodurans was the first of the ultra high radiation resistant microbes to have been discovered. Found back in the 1950&#39;s it survived an experiment where cans of food were exposed to what should have been a sterilizing dose of radiation. Yet one of the cans still spoiled which led to it&#39;s discovery. The whole deinococcus family is filled with ultra hearty microbes. Some are found to be even more resistant than radiodurans.</description>
+      <pubDate>Sat, 31 May 2025 21:59:19 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/TheToughtEmporium/oXDMZMPCIxM.mp4" length="39619715" type="video/mp4"></enclosure>
+      <itunes:author>The Thought Emporium</itunes:author>
+      <itunes:subtitle>This bacteria can withstand a nuclear reactor! ☢️</itunes:subtitle>
+      <itunes:summary><![CDATA[Deinococcus radiodurans was the first of the ultra high radiation resistant microbes to have been discovered. Found back in the 1950's it survived an experiment where cans of food were exposed to what should have been a sterilizing dose of radiation. Yet one of the cans still spoiled which led to it's discovery. The whole deinococcus family is filled with ultra hearty microbes. Some are found to be even more resistant than radiodurans.]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/oXDMZMPCIxM/default.jpg"></itunes:image>
+      <itunes:duration>1:58</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
+    <item>
       <guid>aWah0ipEllM</guid>
       <title>Growing Penicillin from a SLAB of Mold</title>
       <link>https://youtube.com/watch?v=aWah0ipEllM</link>
@@ -33,7 +48,7 @@
       <itunes:image href="https://i.ytimg.com/vi/aWah0ipEllM/default.jpg"></itunes:image>
       <itunes:duration>1:09</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
   </channel>
 </rss>
