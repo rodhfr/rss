@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 00:03:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 01:49:13 +0000</lastBuildDate>
     <pubDate>Sat, 06 Aug 2016 18:08:24 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/voL1BZtJ89vP15mHZfiy86BOZU4BEPiYA8zdLiPkGW_M_TcXefJ_2blJ95dojXVVZtNkVO3n5w=s800-c-k-c0x00ffffff-no-rj</url>
@@ -25,6 +25,23 @@ Os conflitos políticos e militares, processos revolucionários e lutas anti-imp
     <itunes:image href="https://yt3.ggpht.com/voL1BZtJ89vP15mHZfiy86BOZU4BEPiYA8zdLiPkGW_M_TcXefJ_2blJ95dojXVVZtNkVO3n5w=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>sDaEyT1uuvM</guid>
+      <title>Drones Sobre À Rússia - A Vingança Ucraniana</title>
+      <link>https://youtube.com/watch?v=sDaEyT1uuvM</link>
+      <description>Neste dia 01 de junho a Ucrânia lançou uma operação midiática contra 5 base aéreas no interior da Rússia.&#xA;Dos cerca de 14 aeronave, 6 Tupulevs da forte de bombardeiros estratégicos russos. &#xA;Apesar de fantástico, o ataque não altera a linha de frente e nem a estratégia russo.&#xA;Para além dos resultados, esse ataque às véspera da reunião Istambul mostra que as operações ucranianas contra a Rússia são dirigidas pela CIA/SBU e visam apenas vingança. Mas, o que está por trás disso?</description>
+      <pubDate>Mon, 02 Jun 2025 20:46:39 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/GuerraPatriotica/sDaEyT1uuvM.mp3" length="1109023" type="audio/mpeg"></enclosure>
+      <itunes:author>Guerra Patriótica</itunes:author>
+      <itunes:subtitle>Drones Sobre À Rússia - A Vingança Ucraniana</itunes:subtitle>
+      <itunes:summary><![CDATA[Neste dia 01 de junho a Ucrânia lançou uma operação midiática contra 5 base aéreas no interior da Rússia.
+Dos cerca de 14 aeronave, 6 Tupulevs da forte de bombardeiros estratégicos russos. 
+Apesar de fantástico, o ataque não altera a linha de frente e nem a estratégia russo.
+Para além dos resultados, esse ataque às véspera da reunião Istambul mostra que as operações ucranianas contra a Rússia são dirigidas pela CIA/SBU e visam apenas vingança. Mas, o que está por trás disso?]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/sDaEyT1uuvM/maxresdefault_live.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>G7fR-3z98V0</guid>
       <title>Correio Não Pode Voar, Campanha Anti-China, MC Poze e Casa Para Ricos e Para o Povo?</title>
@@ -78,23 +95,6 @@ O que é verdade nessa história e o que está por trás dessa cobertura?
       <itunes:image href="https://i.ytimg.com/vi/vsLykdYhOw8/maxresdefault_live.jpg"></itunes:image>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>4</itunes:order>
-    </item>
-    <item>
-      <guid>4ZHfGiwbJMA</guid>
-      <title>Hitler Enganou Stálin?</title>
-      <link>https://youtube.com/watch?v=4ZHfGiwbJMA</link>
-      <description>A historiografia ocidental construiu de maneira falsa a ideia de que Adolf Hitler atacou a URSS em 1941 de maneira inesperada por Josef Stálin, pegando líder soviético de surpresa porque o mesmo se portava como tolo. Tal coisa teria conhecido porque Stálin insistia em ignorar os avisos ingleses e teimava em querer ser “amigo” dos nazistas.&#xA;Será que essas afirmações se sustentam a uma análise crítica?&#xA;&#xA;🎙️</description>
-      <pubDate>Tue, 27 May 2025 00:40:14 +0000</pubDate>
-      <enclosure url="https://feed.rodhfr.shop/GuerraPatriotica/4ZHfGiwbJMA.mp3" length="58797141" type="audio/mpeg"></enclosure>
-      <itunes:author>Guerra Patriótica</itunes:author>
-      <itunes:subtitle>Hitler Enganou Stálin?</itunes:subtitle>
-      <itunes:summary><![CDATA[A historiografia ocidental construiu de maneira falsa a ideia de que Adolf Hitler atacou a URSS em 1941 de maneira inesperada por Josef Stálin, pegando líder soviético de surpresa porque o mesmo se portava como tolo. Tal coisa teria conhecido porque Stálin insistia em ignorar os avisos ingleses e teimava em querer ser “amigo” dos nazistas.
-Será que essas afirmações se sustentam a uma análise crítica?
-
-🎙️]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/4ZHfGiwbJMA/maxresdefault_live.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
     </item>
   </channel>
 </rss>
