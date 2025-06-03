@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 13:52:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 22:53:34 +0000</lastBuildDate>
     <pubDate>Wed, 03 Jul 2013 11:53:47 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_mfmPEv0_faow63TOWIMqzx3Idan_GRCOtQubiP32skc38=s800-c-k-c0x00ffffff-no-rj</url>
@@ -26,6 +26,57 @@ Email: brodierobertsonbusiness@gmail.com
     <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_mfmPEv0_faow63TOWIMqzx3Idan_GRCOtQubiP32skc38=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>GhfhzTDQdUU</guid>
+      <title>Linux Kernel Chaos Caused By A Broken Script</title>
+      <link>https://youtube.com/watch?v=GhfhzTDQdUU</link>
+      <description>When anything even remotely shady happens in the kernel, people have to take it very seriously just in case something malicious is happening and that&#39;s exactly what happened the other day with Kees Cook in the Linux kernel&#xA;&#xA;==========Support The Channel==========&#xA;► Patreon: https://brodierobertson.xyz/patreon&#xA;► Paypal: https://brodierobertson.xyz/paypal&#xA;► Liberapay: https://brodierobertson.xyz/liberapay&#xA;► Amazon USA: https://brodierobertson.xyz/amazonusa&#xA;&#xA;==========Resources==========&#xA;Linux Backdoor: https://www.youtube.com/watch?v=7gRsgkdfYJ8&#xA;Kees Cook Thread: https://lore.kernel.org/all/202505310759.3A40AD051@keescook/&#xA;&#xA;=========Video Platforms==========&#xA;🎥 Odysee: https://brodierobertson.xyz/odysee&#xA;🎥 Podcast: https://techovertea.xyz/youtube&#xA;🎮 Gaming: https://brodierobertson.xyz/gaming&#xA;&#xA;==========Social Media==========&#xA;🎤 Discord: https://brodierobertson.xyz/discord&#xA;🐦 Twitter: https://brodierobertson.xyz/twitter&#xA;🌐 Mastodon: https://brodierobertson.xyz/mastodon&#xA;🖥️ GitHub: https://brodierobertson.xyz/github&#xA;&#xA;==========Credits==========&#xA;🎨 Channel Art:&#xA;Profile Picture:&#xA;https://www.instagram.com/supercozman_draws/&#xA;&#xA;#Linux #OpenSource #LinuxKernel #FOSS &#xA;&#xA;🎵 Ending music&#xA;Track: Debris &amp; Jonth - Game Time [NCS Release]&#xA;Music provided by NoCopyrightSounds.&#xA;Watch:  https://www.youtube.com/watch?v=yDTvvOTie0w &#xA;Free Download / Stream: http://ncs.io/GameTime&#xA;&#xA;DISCLOSURE: Wherever possible I use referral links, which means if you click one of the links in this video or description and make a purchase I may receive a small commission or other compensation.</description>
+      <pubDate>Tue, 03 Jun 2025 21:00:18 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/BrodieRobertson/GhfhzTDQdUU.mp3" length="8522469" type="audio/mpeg"></enclosure>
+      <itunes:author>Brodie Robertson</itunes:author>
+      <itunes:subtitle>Linux Kernel Chaos Caused By A Broken Script</itunes:subtitle>
+      <itunes:summary><![CDATA[When anything even remotely shady happens in the kernel, people have to take it very seriously just in case something malicious is happening and that's exactly what happened the other day with Kees Cook in the Linux kernel
+
+==========Support The Channel==========
+► Patreon: https://brodierobertson.xyz/patreon
+► Paypal: https://brodierobertson.xyz/paypal
+► Liberapay: https://brodierobertson.xyz/liberapay
+► Amazon USA: https://brodierobertson.xyz/amazonusa
+
+==========Resources==========
+Linux Backdoor: https://www.youtube.com/watch?v=7gRsgkdfYJ8
+Kees Cook Thread: https://lore.kernel.org/all/202505310759.3A40AD051@keescook/
+
+=========Video Platforms==========
+🎥 Odysee: https://brodierobertson.xyz/odysee
+🎥 Podcast: https://techovertea.xyz/youtube
+🎮 Gaming: https://brodierobertson.xyz/gaming
+
+==========Social Media==========
+🎤 Discord: https://brodierobertson.xyz/discord
+🐦 Twitter: https://brodierobertson.xyz/twitter
+🌐 Mastodon: https://brodierobertson.xyz/mastodon
+🖥️ GitHub: https://brodierobertson.xyz/github
+
+==========Credits==========
+🎨 Channel Art:
+Profile Picture:
+https://www.instagram.com/supercozman_draws/
+
+#Linux #OpenSource #LinuxKernel #FOSS 
+
+🎵 Ending music
+Track: Debris & Jonth - Game Time [NCS Release]
+Music provided by NoCopyrightSounds.
+Watch:  https://www.youtube.com/watch?v=yDTvvOTie0w 
+Free Download / Stream: http://ncs.io/GameTime
+
+DISCLOSURE: Wherever possible I use referral links, which means if you click one of the links in this video or description and make a purchase I may receive a small commission or other compensation.]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/GhfhzTDQdUU/maxresdefault.jpg"></itunes:image>
+      <itunes:duration>13:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>tw-Qyp5qfTg</guid>
       <title>Ubuntu Linux And The GNOME Wayland Problem</title>
@@ -77,7 +128,7 @@ DISCLOSURE: Wherever possible I use referral links, which means if you click one
       <itunes:image href="https://i.ytimg.com/vi/tw-Qyp5qfTg/maxresdefault.jpg"></itunes:image>
       <itunes:duration>14:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>1</itunes:order>
+      <itunes:order>2</itunes:order>
     </item>
     <item>
       <guid>SvfiGjdBfR8</guid>
@@ -128,7 +179,7 @@ DISCLOSURE: Wherever possible I use referral links, which means if you click one
       <itunes:image href="https://i.ytimg.com/vi/SvfiGjdBfR8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>19:06</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:order>2</itunes:order>
+      <itunes:order>3</itunes:order>
     </item>
     <item>
       <guid>Ke3iUqu1HX8</guid>
@@ -179,58 +230,6 @@ Free Download / Stream: http://ncs.io/GameTime
 DISCLOSURE: Wherever possible I use referral links, which means if you click one of the links in this video or description and make a purchase I may receive a small commission or other compensation.]]></itunes:summary>
       <itunes:image href="https://i.ytimg.com/vi/Ke3iUqu1HX8/maxresdefault.jpg"></itunes:image>
       <itunes:duration>12:56</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>3</itunes:order>
-    </item>
-    <item>
-      <guid>1mXel0TffNo</guid>
-      <title>【Niri】What&#39;s The Deal With Scrollable Window Managers</title>
-      <link>https://youtube.com/watch?v=1mXel0TffNo</link>
-      <description>StreamElements Tip: http://brodierobertson.xyz/streamelements&#xD;&#xA;Check out my Twitch: http://brodierobertson.xyz/twitch&#xD;&#xA;&#xD;&#xA;I&#39;ve been meaning to try out Niri, so lets get it&#xA;&#xD;&#xA;==========Support The Channel==========&#xD;&#xA;► $100 Linode Credit: http://brodierobertson.xyz/linode&#xD;&#xA;► Patreon: https://brodierobertson.xyz/patreon&#xD;&#xA;► Paypal: https://brodierobertson.xyz/paypal&#xD;&#xA;► Liberachat: https://brodierobertson.xyz/liberachat&#xD;&#xA;► Amazon USA: https://brodierobertson.xyz/amazonusa&#xD;&#xA;&#xD;&#xA;=========Video Platforms==========&#xD;&#xA; Odysee: https://brodierobertson.xyz/odysee&#xD;&#xA; Podcast: https://techovertea.xyz/youtube&#xD;&#xA; Gaming: https://brodierobertson.xyz/gaming&#xD;&#xA;&#xD;&#xA;==========Social Media==========&#xD;&#xA; Discord: https://brodierobertson.xyz/discord&#xD;&#xA; Matrix Space: https://brodierobertson.xyz/matrix&#xD;&#xA; Twitter: https://brodierobertson.xyz/twitter&#xD;&#xA; Mastodon: https://brodierobertson.xyz/mastodon&#xD;&#xA;️ GitHub: https://brodierobertson.xyz/github&#xD;&#xA;&#xD;&#xA;==========Credits==========&#xD;&#xA;Channel Art:&#xD;&#xA;All my art has was created by Supercozman&#xD;&#xA;https://twitter.com/Supercozman&#xD;&#xA;https://www.instagram.com/supercozman_draws/&#xD;&#xA;&#xD;&#xA;#Linux #COSMIC #PopOS #OpenSource #KDE #GNOME&#xD;&#xA;&#xD;&#xA; Stream Music&#xD;&#xA;All music played on stream comes from StreamBeats &#xD;&#xA;Check them out at https://www.streambeats.com/&#xD;&#xA;All their music is free to use on stream&#xD;&#xA;&#xD;&#xA;DISCLOSURE: Wherever possible I use referral links, which means if you click one of the links in this video or description and make a purchase we may receive a small commission or other compensation.</description>
-      <pubDate>Sat, 31 May 2025 02:56:15 +0000</pubDate>
-      <enclosure url="https://feed.rodhfr.shop/BrodieRobertson/1mXel0TffNo.mp3" length="70633629" type="audio/mpeg"></enclosure>
-      <itunes:author>Brodie Robertson</itunes:author>
-      <itunes:subtitle>【Niri】What&#39;s The Deal With Scrollable Window Managers</itunes:subtitle>
-      <itunes:summary><![CDATA[StreamElements Tip: http://brodierobertson.xyz/streamelements
-Check out my Twitch: http://brodierobertson.xyz/twitch
-
-I've been meaning to try out Niri, so lets get it
-
-==========Support The Channel==========
-► $100 Linode Credit: http://brodierobertson.xyz/linode
-► Patreon: https://brodierobertson.xyz/patreon
-► Paypal: https://brodierobertson.xyz/paypal
-► Liberachat: https://brodierobertson.xyz/liberachat
-► Amazon USA: https://brodierobertson.xyz/amazonusa
-
-=========Video Platforms==========
- Odysee: https://brodierobertson.xyz/odysee
- Podcast: https://techovertea.xyz/youtube
- Gaming: https://brodierobertson.xyz/gaming
-
-==========Social Media==========
- Discord: https://brodierobertson.xyz/discord
- Matrix Space: https://brodierobertson.xyz/matrix
- Twitter: https://brodierobertson.xyz/twitter
- Mastodon: https://brodierobertson.xyz/mastodon
-️ GitHub: https://brodierobertson.xyz/github
-
-==========Credits==========
-Channel Art:
-All my art has was created by Supercozman
-https://twitter.com/Supercozman
-https://www.instagram.com/supercozman_draws/
-
-#Linux #COSMIC #PopOS #OpenSource #KDE #GNOME
-
- Stream Music
-All music played on stream comes from StreamBeats 
-Check them out at https://www.streambeats.com/
-All their music is free to use on stream
-
-DISCLOSURE: Wherever possible I use referral links, which means if you click one of the links in this video or description and make a purchase we may receive a small commission or other compensation.]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/1mXel0TffNo/maxresdefault.jpg"></itunes:image>
-      <itunes:duration>2:14:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>4</itunes:order>
     </item>
