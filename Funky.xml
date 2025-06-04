@@ -7,7 +7,7 @@
     <category>TV &amp; Film</category>
     <generator>Podsync generator (support us at https://github.com/mxpv/podsync)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Jun 2025 03:46:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 09:51:34 +0000</lastBuildDate>
     <pubDate>Tue, 05 Jul 2011 21:51:51 +0000</pubDate>
     <image>
       <url>https://yt3.ggpht.com/ytc/AIdro_mPQNjEjSY1qUziqUrjyJQww4Xr8tAVV_2zngc1U7RXHxRa=s800-c-k-c0x00ffffff-no-rj</url>
@@ -28,6 +28,27 @@ O nome "Funky" vem da música "Funky Monks" do Red Hot Chili Peppers, e também 
     <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_mPQNjEjSY1qUziqUrjyJQww4Xr8tAVV_2zngc1U7RXHxRa=s800-c-k-c0x00ffffff-no-rj"></itunes:image>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film"></itunes:category>
+    <item>
+      <guid>JNrnCmjIzSA</guid>
+      <title>Monólito hoje (jogando no Veterano - Sem dicas pfvr)</title>
+      <link>https://youtube.com/watch?v=JNrnCmjIzSA</link>
+      <description>Encontre os melhores cursos profissionalizantes de TI com garantia de emprego na EBAC: https://ebac.me/8owb &#xA;Cupom: VIRADAFUNKY&#xA;&#xA;Canais oficiais:&#xA;- Cortes do Funky: http://www.youtube.com/@CortesdoFunky&#xA;- Reddit: http://www.reddit.com/r/funkyblackcat&#xA;&#xA;Contato comercial: funky@vandep.ag</description>
+      <pubDate>Tue, 03 Jun 2025 19:44:24 +0000</pubDate>
+      <enclosure url="https://feed.rodhfr.shop/Funky/JNrnCmjIzSA.mp4" length="2321291883" type="video/mp4"></enclosure>
+      <itunes:author>Funky Black Cat</itunes:author>
+      <itunes:subtitle>Monólito hoje (jogando no Veterano - Sem dicas pfvr)</itunes:subtitle>
+      <itunes:summary><![CDATA[Encontre os melhores cursos profissionalizantes de TI com garantia de emprego na EBAC: https://ebac.me/8owb 
+Cupom: VIRADAFUNKY
+
+Canais oficiais:
+- Cortes do Funky: http://www.youtube.com/@CortesdoFunky
+- Reddit: http://www.reddit.com/r/funkyblackcat
+
+Contato comercial: funky@vandep.ag]]></itunes:summary>
+      <itunes:image href="https://i.ytimg.com/vi/JNrnCmjIzSA/default_live.jpg"></itunes:image>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:order>1</itunes:order>
+    </item>
     <item>
       <guid>asrPIrCBwP4</guid>
       <title>Hoje tem limpeza de mapa (jogando no Veterano - Sem dicas pfvr)</title>
@@ -99,26 +120,6 @@ Contato comercial: funky@vandep.ag
       <itunes:duration>3:42:21</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>4</itunes:order>
-    </item>
-    <item>
-      <guid>AKoat7eryAg</guid>
-      <title>Duvido vc achar um game mais elegante (jogando no Veterano - Sem dicas pfvr)</title>
-      <link>https://youtube.com/watch?v=AKoat7eryAg</link>
-      <description>Encontre os melhores cursos profissionalizantes de TI com garantia de emprego na EBAC: https://ebac.me/0d945a Cupom: FUNKYBONUS&#xA;&#xA;Canais oficiais:&#xA;- Cortes do Funky: http://www.youtube.com/@CortesdoFunky&#xA;- Reddit: http://www.reddit.com/r/funkyblackcat&#xA;&#xA;Contato comercial: funky@vandep.ag</description>
-      <pubDate>Wed, 28 May 2025 19:26:51 +0000</pubDate>
-      <enclosure url="https://feed.rodhfr.shop/Funky/AKoat7eryAg.mp4" length="11450408444" type="video/mp4"></enclosure>
-      <itunes:author>Funky Black Cat</itunes:author>
-      <itunes:subtitle>Duvido vc achar um game mais elegante (jogando no Veterano - Sem dicas pfvr)</itunes:subtitle>
-      <itunes:summary><![CDATA[Encontre os melhores cursos profissionalizantes de TI com garantia de emprego na EBAC: https://ebac.me/0d945a Cupom: FUNKYBONUS
-
-Canais oficiais:
-- Cortes do Funky: http://www.youtube.com/@CortesdoFunky
-- Reddit: http://www.reddit.com/r/funkyblackcat
-
-Contato comercial: funky@vandep.ag]]></itunes:summary>
-      <itunes:image href="https://i.ytimg.com/vi/AKoat7eryAg/default_live.jpg"></itunes:image>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:order>5</itunes:order>
     </item>
   </channel>
 </rss>
